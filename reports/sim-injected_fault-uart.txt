@@ -1,0 +1,5 @@
+
+retro535 v1.0 | SAB80535-N | 9600 8N1
+SRAM 0000-7FFF: testing (destructive)...
+SRAM FAIL @0000 expected=00 actual=55
+LED P4.0: slow=PASS, fast=FAIL. RESET repeats test.

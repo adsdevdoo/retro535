@@ -1,0 +1,13 @@
+tbreak 0x10e
+step 8000000
+set memory xram 0 0x55
+tbreak 0x110
+step 12000000
+dump iram 0x8 0xc
+tbreak sfr w 0xe8
+step 2000000
+dump sfr 0xe8 0xe8
+tbreak sfr w 0xe8
+step 2000000
+dump sfr 0xe8 0xe8
+quit

@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "uart_expected": "SRAM PASS 32768 bytes",
+    "uart_matched": true,
+    "p4_fe_ff_observed": true
+  },
+  "injected_fault": {
+    "uart_expected": "SRAM FAIL @0000 expected=00 actual=55",
+    "uart_matched": true,
+    "p4_fe_ff_observed": true
+  },
+  "scope": "C52 instruction model, ideal XRAM and UART; P4 raw SFR writes only. Not an exact SAB80535-N or physical board simulation."
+}

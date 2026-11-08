@@ -1,0 +1,2419 @@
+{
+  "created_utc": "2026-11-08T21:39:45.107819+00:00",
+  "board_sha256": "c7ce883b42bb6e790ba64095abc71b3cd030f23d9340032d43f80b06584954aa",
+  "scope": "model-file coverage, portable paths, transforms and hashes; not mechanical collision certification",
+  "footprints": 82,
+  "requires_model": 68,
+  "missing_or_nonportable": [],
+  "items": [
+    {
+      "reference": "C1",
+      "value": "4.7u",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C2",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C3",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C4",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C5",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C6",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C7",
+      "value": "4.7u",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C8",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C9",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C10",
+      "value": "30p",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C11",
+      "value": "30p",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C12",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C13",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C14",
+      "value": "1u",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C15",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C16",
+      "value": "1u",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C17",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C18",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C19",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "C20",
+      "value": "100n",
+      "footprint": "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/C_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9a669c1a2f1ea25b88b401acef6efeaa80a067bd7da9db6993de719a7fbe155c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "D1",
+      "value": "USBLC6-2SC6",
+      "footprint": "SOT-23-6",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SOT-23-6.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9491de18305b16fe125ee3d603109a29edd837d50d22305b6f929886492ce755",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "D2",
+      "value": "POWER green",
+      "footprint": "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/LED_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "0aa8b791804f5d72a2fc7d1bf231dd9959207d83df8ad801176fbc459f575b98",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "D3",
+      "value": "USER P4.0 active LOW",
+      "footprint": "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/LED_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "0aa8b791804f5d72a2fc7d1bf231dd9959207d83df8ad801176fbc459f575b98",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "F1",
+      "value": "0.75A PTC",
+      "footprint": "Fuse_1812_4532Metric",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/MF-MSMF075_adom_illustrative.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "09ab2ff31e42c58d71cba42fb5fbdd97c9696221e45cb2084c2cc9c1861885d4",
+          "scale": [
+            1.0,
+            1.0,
+            0.7777777778
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "FB1",
+      "value": "600R@100MHz",
+      "footprint": "L_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/L_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "751a8ae26d20698bfe8303aa2fc7ec986a8b9a7154699b94bf2a13d4ad401425",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "H1",
+      "value": "M3 NPTH",
+      "footprint": "MountingHole_3.2mm_M3",
+      "side": "top",
+      "exception": "mounting hole; hardware not fitted",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "H2",
+      "value": "M3 NPTH",
+      "footprint": "MountingHole_3.2mm_M3",
+      "side": "top",
+      "exception": "mounting hole; hardware not fitted",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "H3",
+      "value": "M3 NPTH",
+      "footprint": "MountingHole_3.2mm_M3",
+      "side": "top",
+      "exception": "mounting hole; hardware not fitted",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "H4",
+      "value": "M3 NPTH",
+      "footprint": "MountingHole_3.2mm_M3",
+      "side": "top",
+      "exception": "mounting hole; hardware not fitted",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "J1",
+      "value": "USB-C",
+      "footprint": "USB_C_Receptacle_HRO_TYPE-C-31-M-12",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/HRO_TYPE-C-31-M-12_aligned.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "d9bb0a02ee670aaaa50655b6ceed0c8f3d8c846a4d7430fe42a507cddae6c477",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "J2",
+      "value": "P1",
+      "footprint": "PinHeader_2x05_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_2x05_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "cd99322b0ccc253157acbe9c5c672ce9b37dbcd4d59fb001240a93110052cdce",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "J3",
+      "value": "P4",
+      "footprint": "PinHeader_2x05_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_2x05_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "cd99322b0ccc253157acbe9c5c672ce9b37dbcd4d59fb001240a93110052cdce",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "J4",
+      "value": "P5",
+      "footprint": "PinHeader_2x05_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_2x05_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "cd99322b0ccc253157acbe9c5c672ce9b37dbcd4d59fb001240a93110052cdce",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "J5",
+      "value": "ANALOG",
+      "footprint": "PinHeader_2x05_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_2x05_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "cd99322b0ccc253157acbe9c5c672ce9b37dbcd4d59fb001240a93110052cdce",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "J6",
+      "value": "P3 / UART",
+      "footprint": "PinHeader_2x04_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_2x04_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "8c93c8dc19c54899e69e49abcf27681edd2e73c562bb405efbcc88fee20ac8d8",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "J7",
+      "value": "BUS RESERVED",
+      "footprint": "PinHeader_2x15_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_2x15_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "f164a6a3469130b641592869301b6991c40efa84984fd977e83cab475603335c",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "JP1",
+      "value": "RUN - FIT AFTER FT_PROG",
+      "footprint": "PinHeader_1x02_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_1x02_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ea4d0799007ebdd3945072bf255d673d2fe87eb05fda85fd8d7993ad9397da41",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "JP2",
+      "value": "USB RX LINK",
+      "footprint": "PinHeader_1x02_P2.54mm_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PinHeader_1x02_P2.54mm_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ea4d0799007ebdd3945072bf255d673d2fe87eb05fda85fd8d7993ad9397da41",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "Q1",
+      "value": "MMBT3904",
+      "footprint": "SOT-23",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SOT-23.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9fe9af3cc6cf3d3bc3bd3da71731af2037c67f690245102a20e1e39a33e9ade4",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R1",
+      "value": "5.1k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R2",
+      "value": "5.1k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R3",
+      "value": "10k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R4",
+      "value": "10k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R5",
+      "value": "10k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R6",
+      "value": "2.2k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R7",
+      "value": "10k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R8",
+      "value": "10",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R9",
+      "value": "10k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R10",
+      "value": "10k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R11",
+      "value": "47k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R12",
+      "value": "10k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R13",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R14",
+      "value": "3.3k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R15",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R20",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R21",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R22",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R23",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R24",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R25",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R26",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "R27",
+      "value": "100k",
+      "footprint": "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+      "side": "bottom",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/R_0805_2012Metric.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "ded342cdb394fb45395227beaaa75cc390613cf2581b29cd6d22c12abd6103b2",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "SW1",
+      "value": "RESET",
+      "footprint": "SW_PUSH_6mm",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SW_PUSH_6mm.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "eb2ba2737299cc764145d8d10ea26d992f819ff5522fb3c0dfa2605b8221f9d6",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP1",
+      "value": "GND",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP2",
+      "value": "+5V_USB",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP3",
+      "value": "+5V",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP4",
+      "value": "RESET_N",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP5",
+      "value": "ALE",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP6",
+      "value": "PSEN_N",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP7",
+      "value": "RD_N",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP8",
+      "value": "WR_N",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP9",
+      "value": "AVREF",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "TP10",
+      "value": "OC_N",
+      "footprint": "TestPoint_Pad_D2.0mm",
+      "side": "top",
+      "exception": "bare PCB test pad",
+      "models": [],
+      "file_check_pass": true,
+      "display_state": "no discrete component",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U1",
+      "value": "SAB80535-N",
+      "footprint": "PLCC68_PreciDip_540-99-068-24-000-1",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/PLCC68_THT_70207015_illustrative.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "192482d2b5d13e3a80058fcef01ca047e8104a8ec5c62864bc57aa518f36dc53",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "empty socket; removable IC deliberately omitted",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U2",
+      "value": "74HCT573",
+      "footprint": "SOIC-20W_7.5x12.8mm_P1.27mm",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SOIC-20W_7.5x12.8mm_P1.27mm.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "d9d58195194a8b6f6bc622964179ee91f9d3fc9e25aa734bcc0dce135fc12612",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U3",
+      "value": "SST39SF010A-70-4C-PHE",
+      "footprint": "DIP-32_W15.24mm_Socket_LongPads",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/DIP-32_W15.24mm_Socket.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "95292a70c0284d4f166cec6cec3f2f2662abefc9527f7762e3e410931c04fd9b",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "empty socket; removable IC deliberately omitted",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U4",
+      "value": "AS6C62256A-70PCN",
+      "footprint": "DIP-28_W15.24mm_Socket_LongPads",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/DIP-28_W15.24mm_Socket.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "9cf425a460c693596ec31e4a702812e3f036598a38c4b931333f100b3399373f",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "empty socket; removable IC deliberately omitted",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U5",
+      "value": "FT232RL",
+      "footprint": "SSOP-28_5.3x10.2mm_P0.65mm",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SSOP-28_5.3x10.2mm_P0.65mm.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "5e0c1fef35b84952d19f9102ba22d721e6696cdd00501c40056ca4d6536ca501",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U6",
+      "value": "TPS2041BDR",
+      "footprint": "SOIC-8_3.9x4.9mm_P1.27mm",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SOIC-8_3.9x4.9mm_P1.27mm.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "d9b46f6dd6cf8c5e2028838eed38e2a6a7f26235856078511e5a71a594ca809e",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U7",
+      "value": "MCP120-475I/SN",
+      "footprint": "SOIC-8_3.9x4.9mm_P1.27mm",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SOIC-8_3.9x4.9mm_P1.27mm.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "d9b46f6dd6cf8c5e2028838eed38e2a6a7f26235856078511e5a71a594ca809e",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "U8",
+      "value": "74AHCT125",
+      "footprint": "SOIC-14_3.9x8.7mm_P1.27mm",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/SOIC-14_3.9x8.7mm_P1.27mm.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "8294d4531cded9c47ead7815690b9a9c1c084d404c3689406c807f7d1b45b600",
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    },
+    {
+      "reference": "Y1",
+      "value": "11.0592MHz CL20p",
+      "footprint": "Crystal_HC49-U_Vertical",
+      "side": "top",
+      "exception": null,
+      "models": [
+        {
+          "path": "${KIPRJMOD}/3d/Crystal_HC49-4H_Vertical.step",
+          "exists": true,
+          "project_local": true,
+          "sha256": "a9ae95c1817e0b5582cdf365f85938d48624c7fd30154f3c590e899fe52c8378",
+          "scale": [
+            1.0,
+            1.0,
+            0.8536585366
+          ],
+          "offset_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation_deg": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file_check_pass": true,
+      "display_state": "component body",
+      "mechanical_validation": "not manufacturer CAD certification; see docs/models.md"
+    }
+  ],
+  "visual_review": {
+    "date": "2026-11-08",
+    "images": {
+      "gerber-bottom.png": "3bbc2344a888bb8d21a34a779575818f8fd8f56491214aca5c9f067c7c3b045b",
+      "gerber-top.png": "bbebcfe723e2c19e361f72204af9e1d732ed2a434765042f7e7f8490ec7e5c5d",
+      "retro535-angle.png": "70cd6c0a8af615251d24e35f6db5a667cd2eb5f3052797d0170d604014fa79ec",
+      "retro535-bottom.png": "cd9067d605844bcf38353fcb7c55a774e85c87391da30d865f990ff30a1e3cfd",
+      "retro535-top.png": "058a88aea680e68e84e89da8c74a4ce8e02a86d028964172f26cf73f4bac8203"
+    },
+    "scope": "Top, bottom and angled CAD renders plus both independently rendered Gerber sides inspected. All populated component bodies present; no obvious floating bodies or body overlaps. Empty sockets and illustrative substitutions are documented in docs/models.md. Not mechanical certification."
+  }
+}

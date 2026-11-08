@@ -1,0 +1,3287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Администратор\Documents\Codex\2026-11-08\new-chat\outputs\retro535\hardware\retro535.kicad_sch</source>
+    <date>2026-11-08T22:20:14+0100</date>
+    <tool>Eeschema 9.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Siemens SAB80535-N Retro Development Board</title>
+        <company>retro535 - engineering prototype</company>
+        <rev>1.0</rev>
+        <date>2026-11-08</date>
+        <source>retro535.kicad_sch</source>
+        <comment number="1" value="USB-C, protection and enumerated power"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/">
+      <title_block>
+        <title>Siemens SAB80535-N Retro Development Board</title>
+        <company>retro535 - engineering prototype</company>
+        <rev>1.0</rev>
+        <date>2026-11-08</date>
+        <source>sheet2.kicad_sch</source>
+        <comment number="1" value="SAB80535-N core, reset, clock and analogue inputs"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/">
+      <title_block>
+        <title>Siemens SAB80535-N Retro Development Board</title>
+        <company>retro535 - engineering prototype</company>
+        <rev>1.0</rev>
+        <date>2026-11-08</date>
+        <source>sheet3.kicad_sch</source>
+        <comment number="1" value="External CODE and XDATA memory"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/">
+      <title_block>
+        <title>Siemens SAB80535-N Retro Development Board</title>
+        <company>retro535 - engineering prototype</company>
+        <rev>1.0</rev>
+        <date>2026-11-08</date>
+        <source>sheet4.kicad_sch</source>
+        <comment number="1" value="UART isolation, GPIO and test points"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7u</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR61C475KA73L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C1_c" description=""/>
+      <property name="MPN" value="GRM21BR61C475KA73L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d234338-6da4-5f9d-9e44-6d2685483344</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C2_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c776d3a-fd6f-5e67-b035-5cff0f50f365</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C3_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df2d302e-dedc-5213-abc5-ec5c4caaaab2</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C4_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69bb0a40-1eb0-5107-811f-626234a20584</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C5_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65165d8a-860c-585b-992e-49c607af1344</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C6_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7db30843-6c21-54e8-9bfe-7ec267d644d8</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7u</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR61C475KA73L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C7_c" description=""/>
+      <property name="MPN" value="GRM21BR61C475KA73L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4518f9b3-8d30-508b-abb6-0ad9664a84b9</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C8_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64aabdd6-75b8-5083-9950-b15983531301</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>USBLC6-2SC6</value>
+      <footprint>Retro535:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="MPN">USBLC6-2SC6</field>
+        <field name="Footprint">Retro535:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="D1_ic" description=""/>
+      <property name="MPN" value="USBLC6-2SC6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1126788f-054d-58a4-abf6-8906336ea7bc</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>POWER green</value>
+      <footprint>Retro535:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">LTST-C170KGKT</field>
+        <field name="Footprint">Retro535:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="D2_led" description=""/>
+      <property name="MPN" value="LTST-C170KGKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8bf8071-d757-58c7-a824-fbc9925b7e7d</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>0.75A PTC</value>
+      <footprint>Retro535:Fuse_1812_4532Metric</footprint>
+      <fields>
+        <field name="MPN">MF-MSMF075-2</field>
+        <field name="Footprint">Retro535:Fuse_1812_4532Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="F1_fuse" description=""/>
+      <property name="MPN" value="MF-MSMF075-2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28e7107b-6c11-5dcb-8c96-a7da631e146f</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>600R@100MHz</value>
+      <footprint>Retro535:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">BLM21PG601SN1D</field>
+        <field name="Footprint">Retro535:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="FB1_r" description=""/>
+      <property name="MPN" value="BLM21PG601SN1D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1506b9d0-7334-5a6b-8529-3ddb85d19896</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB-C</value>
+      <footprint>Retro535:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf</datasheet>
+      <fields>
+        <field name="MPN">TYPE-C-31-M-12</field>
+        <field name="Footprint">Retro535:USB_C_Receptacle_HRO_TYPE-C-31-M-12</field>
+        <field name="Datasheet">https://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="J1_ic" description=""/>
+      <property name="MPN" value="TYPE-C-31-M-12"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd4c508b-917c-56f3-b2a7-7c26f136214b</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>RUN - FIT AFTER FT_PROG</value>
+      <footprint>Retro535:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9990245</field>
+        <field name="Footprint">Retro535:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="JP1_jumper" description=""/>
+      <property name="MPN" value="M20-9990245"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d92d5b82-1a00-5e17-9653-547ec057828d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-075K1L</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R1_r" description=""/>
+      <property name="MPN" value="RC0805FR-075K1L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3d095f4-bd0b-5665-b0c0-d3ce408b2250</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-075K1L</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R2_r" description=""/>
+      <property name="MPN" value="RC0805FR-075K1L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>072a62ef-2824-5cc6-be81-b2c568c2bbc1</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R3_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60796f3b-ab6b-5f97-9d80-0f11337c961a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R4_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5581c15-98a6-54c1-a7a9-5a9c73b92812</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R5_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>336446b1-74cc-5a74-92cc-97a9a3f77e13</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2.2k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-072K2L</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R6_r" description=""/>
+      <property name="MPN" value="RC0805FR-072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba6c7925-f004-5939-b2c4-5c5e5941f064</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>FT232RL</value>
+      <footprint>Retro535:SSOP-28_5.3x10.2mm_P0.65mm</footprint>
+      <datasheet>https://ftdichip.cn/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</datasheet>
+      <fields>
+        <field name="MPN">FT232RL</field>
+        <field name="Footprint">Retro535:SSOP-28_5.3x10.2mm_P0.65mm</field>
+        <field name="Datasheet">https://ftdichip.cn/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U5_ic" description=""/>
+      <property name="MPN" value="FT232RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10bd56af-e346-559b-9303-96a3cce59d4e</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TPS2041BDR</value>
+      <footprint>Retro535:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tps2041b.pdf</datasheet>
+      <fields>
+        <field name="MPN">TPS2041BDR</field>
+        <field name="Footprint">Retro535:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tps2041b.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U6_ic" description=""/>
+      <property name="MPN" value="TPS2041BDR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="retro535.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>755683ad-ffaf-5452-ad3a-e155816d2ef4</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C9_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>b72a4f43-c7b6-5276-ac3f-2ed62f34bfa7</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>30p</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM2165C1H300JA01D</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C10_c" description=""/>
+      <property name="MPN" value="GRM2165C1H300JA01D"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>a0915850-fb9a-59d8-ab42-88b91570aea5</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>30p</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM2165C1H300JA01D</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C11_c" description=""/>
+      <property name="MPN" value="GRM2165C1H300JA01D"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>8e33b27f-09f4-5b00-8284-35410ced7bb8</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C12_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>adccc02f-2eb9-5427-9b5c-1eab1d86849a</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C13_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>d57d1622-9874-50a8-9574-15c900f27165</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1u</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71C105KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C14_c" description=""/>
+      <property name="MPN" value="GRM21BR71C105KA01L"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>1b8a3fb4-e10c-52c7-872f-1d3f9be84018</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C15_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>62e9caf7-5e05-5d71-bd6b-8c4573cc2fe0</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1u</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71C105KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C16_c" description=""/>
+      <property name="MPN" value="GRM21BR71C105KA01L"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>08118e78-c077-5ef1-91ba-a9ff50ed8821</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R7_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>061371fe-8f4f-50fe-8bba-3704d2ee702d</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710RL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R8_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710RL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>030afa93-b725-5ae1-ba1d-cc07c2c2f902</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R20_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>52d0c66c-e0c0-5c4b-b637-0192fc8761b6</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R21_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>12e92100-777f-5b9e-9b94-57eb52a3c611</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R22_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>727226d1-b159-5285-a5cd-2dbcc2c02b21</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R23_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>f529cb0e-a969-5849-a0ad-367f59849e9d</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R24_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>28249612-0c38-5e78-a5b8-ef97f9763f30</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R25_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>422349bc-ffd1-545f-b86e-1a63878e9d73</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R26_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>080f761e-4afa-5440-ab6e-a86329499ddf</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R27_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>8ecc2d62-73c4-5aad-a178-717f7e8ac845</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>Retro535:SW_PUSH_6mm</footprint>
+      <fields>
+        <field name="MPN">B3F-1000</field>
+        <field name="Footprint">Retro535:SW_PUSH_6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="SW1_switch" description=""/>
+      <property name="MPN" value="B3F-1000"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>4afbf440-9c5c-54dc-bde2-c4f5b02b2ff0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SAB80535-N</value>
+      <footprint>Retro535:PLCC68_PreciDip_540-99-068-24-000-1</footprint>
+      <datasheet>https://www.ardent-tool.com/datasheets/Siemens_SAB80515_80535.pdf</datasheet>
+      <fields>
+        <field name="MPN">SAB80535-N</field>
+        <field name="Footprint">Retro535:PLCC68_PreciDip_540-99-068-24-000-1</field>
+        <field name="Datasheet">https://www.ardent-tool.com/datasheets/Siemens_SAB80515_80535.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U1_ic" description=""/>
+      <property name="MPN" value="SAB80535-N"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>28c33f55-ba06-5250-87b5-df53e457d399</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MCP120-475I/SN</value>
+      <footprint>Retro535:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/en/DeviceDoc/11184D.pdf</datasheet>
+      <fields>
+        <field name="MPN">MCP120-475I/SN</field>
+        <field name="Footprint">Retro535:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/en/DeviceDoc/11184D.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U7_ic" description=""/>
+      <property name="MPN" value="MCP120-475I/SN"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>9535cb2e-3927-5088-a789-726283d0521b</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>11.0592MHz CL20p</value>
+      <footprint>Retro535:Crystal_HC49-U_Vertical</footprint>
+      <datasheet>https://www.ecsxtal.com/store/pdf/hc-49usx.pdf</datasheet>
+      <fields>
+        <field name="MPN">ECS-110.5-20-4X</field>
+        <field name="Footprint">Retro535:Crystal_HC49-U_Vertical</field>
+        <field name="Datasheet">https://www.ecsxtal.com/store/pdf/hc-49usx.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="Y1_crystal" description=""/>
+      <property name="MPN" value="ECS-110.5-20-4X"/>
+      <property name="Sheetname" value="SAB80535-N core, reset, clock and analogue inputs"/>
+      <property name="Sheetfile" value="sheet2.kicad_sch"/>
+      <sheetpath names="/SAB80535-N core, reset, clock and analogue inputs/" tstamps="/0821fa67-a6fa-52a9-b3c5-6c970b4faae1/"/>
+      <tstamps>7e1c6a3e-7970-58b1-91b6-05c4d0ee2e16</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C17_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>05e3797f-d1ff-59b1-9222-02fc7aed354f</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C18_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>74b316b4-34a3-5e65-b505-f14710103578</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C19_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>ccaca688-cf57-5fd6-9004-905e686faf2e</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R9_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>367a7599-e9df-5fad-bed6-6595bc182a35</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R10_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>faf810d6-fcef-5ff3-a4e0-4fa8f6d9e29a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>74HCT573</value>
+      <footprint>Retro535:SOIC-20W_7.5x12.8mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74hct573.pdf</datasheet>
+      <fields>
+        <field name="MPN">SN74HCT573DWR</field>
+        <field name="Footprint">Retro535:SOIC-20W_7.5x12.8mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74hct573.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U2_ic" description=""/>
+      <property name="MPN" value="SN74HCT573DWR"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>05d4f562-3ef4-5856-bb80-7e22b68e27f6</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SST39SF010A-70-4C-PHE</value>
+      <footprint>Retro535:DIP-32_W15.24mm_Socket_LongPads</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/SST39SF010A-SST39SF020A-SST39SF040-Data-Sheet-DS20005022.pdf</datasheet>
+      <fields>
+        <field name="MPN">SST39SF010A-70-4C-PHE</field>
+        <field name="Footprint">Retro535:DIP-32_W15.24mm_Socket_LongPads</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/SST39SF010A-SST39SF020A-SST39SF040-Data-Sheet-DS20005022.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U3_ic" description=""/>
+      <property name="MPN" value="SST39SF010A-70-4C-PHE"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>392dfc95-85e1-5c92-8570-b35a86b33448</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>AS6C62256A-70PCN</value>
+      <footprint>Retro535:DIP-28_W15.24mm_Socket_LongPads</footprint>
+      <datasheet>https://www.alliancememory.com/wp-content/uploads/AS6C62256A-70PCN_AS6C62256A.pdf</datasheet>
+      <fields>
+        <field name="MPN">AS6C62256A-70PCN</field>
+        <field name="Footprint">Retro535:DIP-28_W15.24mm_Socket_LongPads</field>
+        <field name="Datasheet">https://www.alliancememory.com/wp-content/uploads/AS6C62256A-70PCN_AS6C62256A.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U4_ic" description=""/>
+      <property name="MPN" value="AS6C62256A-70PCN"/>
+      <property name="Sheetname" value="External CODE and XDATA memory"/>
+      <property name="Sheetfile" value="sheet3.kicad_sch"/>
+      <sheetpath names="/External CODE and XDATA memory/" tstamps="/a172c868-988f-54fd-813b-45572cb8b7b5/"/>
+      <tstamps>e866303f-2640-59dc-933d-0fec3b94bc94</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">GRM21BR71H104KA01L</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="C20_c" description=""/>
+      <property name="MPN" value="GRM21BR71H104KA01L"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>462a6486-7d8c-512c-857b-524ea027cfbf</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>USER P4.0 active LOW</value>
+      <footprint>Retro535:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">LTST-C170KRKT</field>
+        <field name="Footprint">Retro535:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="D3_led" description=""/>
+      <property name="MPN" value="LTST-C170KRKT"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>83721273-9c2e-54f0-ad52-3d7daa2e9cc5</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>P1</value>
+      <footprint>Retro535:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9980546</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="J2_header" description=""/>
+      <property name="MPN" value="M20-9980546"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>2542dea2-28ab-5bbb-a82e-783fdad25c39</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>P4</value>
+      <footprint>Retro535:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9980546</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="J3_header" description=""/>
+      <property name="MPN" value="M20-9980546"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>01ff2d46-6203-58c9-9eef-8128dbe8b225</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>P5</value>
+      <footprint>Retro535:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9980546</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="J4_header" description=""/>
+      <property name="MPN" value="M20-9980546"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>f4738705-3e2d-5c57-a1ab-23185951ba09</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>ANALOG</value>
+      <footprint>Retro535:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9980546</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="J5_header" description=""/>
+      <property name="MPN" value="M20-9980546"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>2abc11a3-2ae9-567e-a586-cf54e5143aba</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>P3 / UART</value>
+      <footprint>Retro535:PinHeader_2x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9980446</field>
+        <field name="Footprint">Retro535:PinHeader_2x04_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="J6_header" description=""/>
+      <property name="MPN" value="M20-9980446"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>3095b228-0716-59bd-96bc-49ee68d9ebfc</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>BUS RESERVED</value>
+      <footprint>Retro535:PinHeader_2x15_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9981546</field>
+        <field name="Footprint">Retro535:PinHeader_2x15_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="J7_header" description=""/>
+      <property name="MPN" value="M20-9981546"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>50e371f9-c3a9-5a4e-a68f-5e9c68ef7ba0</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>USB RX LINK</value>
+      <footprint>Retro535:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="MPN">M20-9990245</field>
+        <field name="Footprint">Retro535:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="JP2_jumper" description=""/>
+      <property name="MPN" value="M20-9990245"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>89bd4cec-010c-5913-8711-646f0e59a32c</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MMBT3904</value>
+      <footprint>Retro535:SOT-23</footprint>
+      <fields>
+        <field name="MPN">MMBT3904</field>
+        <field name="Footprint">Retro535:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="Q1_ic" description=""/>
+      <property name="MPN" value="MMBT3904"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>f0c7e52a-d696-531f-b5bd-334003d6ac2c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>47k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0747KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R11_r" description=""/>
+      <property name="MPN" value="RC0805FR-0747KL"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>9addde11-907f-5a4b-a18e-f226c298e6ee</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-0710KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R12_r" description=""/>
+      <property name="MPN" value="RC0805FR-0710KL"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>f0508f32-76fd-52eb-88a9-3572b4f4edec</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R13_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>00af81d7-853c-55aa-b015-e9024deac605</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>3.3k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-073K3L</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R14_r" description=""/>
+      <property name="MPN" value="RC0805FR-073K3L"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>c12d42db-a165-5b02-aab2-f04496144352</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>100k</value>
+      <footprint>Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0805FR-07100KL</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="R15_r" description=""/>
+      <property name="MPN" value="RC0805FR-07100KL"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>1f9287d3-0d9c-5293-8f35-88ba2ed13faf</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>GND</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP1_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>23f9b148-2234-5216-a2c1-9fbbbabbfe04</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>+5V_USB</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP2_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>676573c5-3d4b-5784-8a50-8a72e3e00ebc</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>+5V</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP3_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>abce2942-9759-56f9-a75d-9b7915ac69a7</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>RESET_N</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP4_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>2db26d95-7998-5837-abbe-cb2df9e734fb</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>ALE</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP5_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>32aa9378-8976-5201-8356-1ad3f2a658cf</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>PSEN_N</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP6_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>11f59dc8-55c2-5338-8343-557202d8c4ec</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>RD_N</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP7_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>f4da1185-d7b5-52d7-8a7f-54a078d82e3d</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>WR_N</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP8_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>4f54256e-f8eb-5352-a356-f573980334c2</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>AVREF</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP9_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>fc04cc34-b818-5d03-aa78-a0fc905b9fdc</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>OC_N</value>
+      <footprint>Retro535:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="MPN">PCB test pad</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="TP10_tp" description=""/>
+      <property name="MPN" value="PCB test pad"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>504e1bc5-0c71-565d-b838-acbadd70cf6a</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>74AHCT125</value>
+      <footprint>Retro535:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf</datasheet>
+      <fields>
+        <field name="MPN">SN74AHCT125DR</field>
+        <field name="Footprint">Retro535:SOIC-14_3.9x8.7mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Retro535" part="U8_ic" description=""/>
+      <property name="MPN" value="SN74AHCT125DR"/>
+      <property name="Sheetname" value="UART isolation, GPIO and test points"/>
+      <property name="Sheetfile" value="sheet4.kicad_sch"/>
+      <sheetpath names="/UART isolation, GPIO and test points/" tstamps="/f2aaa974-02de-539c-829d-8d0a632b5cf5/"/>
+      <tstamps>c64eae3f-063a-546b-84c9-d1dbae0b39f1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Retro535" part="C10_c">
+      <fields>
+        <field name="Reference">C10</field>
+        <field name="Value">30p</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C11_c">
+      <fields>
+        <field name="Reference">C11</field>
+        <field name="Value">30p</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C12_c">
+      <fields>
+        <field name="Reference">C12</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C13_c">
+      <fields>
+        <field name="Reference">C13</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C14_c">
+      <fields>
+        <field name="Reference">C14</field>
+        <field name="Value">1u</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C15_c">
+      <fields>
+        <field name="Reference">C15</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C16_c">
+      <fields>
+        <field name="Reference">C16</field>
+        <field name="Value">1u</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C17_c">
+      <fields>
+        <field name="Reference">C17</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C18_c">
+      <fields>
+        <field name="Reference">C18</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C19_c">
+      <fields>
+        <field name="Reference">C19</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C1_c">
+      <fields>
+        <field name="Reference">C1</field>
+        <field name="Value">4.7u</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C20_c">
+      <fields>
+        <field name="Reference">C20</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C2_c">
+      <fields>
+        <field name="Reference">C2</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C3_c">
+      <fields>
+        <field name="Reference">C3</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C4_c">
+      <fields>
+        <field name="Reference">C4</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C5_c">
+      <fields>
+        <field name="Reference">C5</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C6_c">
+      <fields>
+        <field name="Reference">C6</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C7_c">
+      <fields>
+        <field name="Reference">C7</field>
+        <field name="Value">4.7u</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C8_c">
+      <fields>
+        <field name="Reference">C8</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="C9_c">
+      <fields>
+        <field name="Reference">C9</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Retro535:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="D1_ic">
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <fields>
+        <field name="Reference">D1</field>
+        <field name="Value">USBLC6-2SC6</field>
+        <field name="Footprint">Retro535:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO2" type="passive"/>
+        <pin num="5" name="VBUS" type="power_in"/>
+        <pin num="6" name="IO1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="D2_led">
+      <fields>
+        <field name="Reference">D2</field>
+        <field name="Value">POWER green</field>
+        <field name="Footprint">Retro535:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="D3_led">
+      <fields>
+        <field name="Reference">D3</field>
+        <field name="Value">USER P4.0 active LOW</field>
+        <field name="Footprint">Retro535:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="F1_fuse">
+      <fields>
+        <field name="Reference">F1</field>
+        <field name="Value">0.75A PTC</field>
+        <field name="Footprint">Retro535:Fuse_1812_4532Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="FB1_r">
+      <fields>
+        <field name="Reference">FB1</field>
+        <field name="Value">600R@100MHz</field>
+        <field name="Footprint">Retro535:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="J1_ic">
+      <docs>https://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf</docs>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">USB-C</field>
+        <field name="Footprint">Retro535:USB_C_Receptacle_HRO_TYPE-C-31-M-12</field>
+        <field name="Datasheet">https://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="A4" name="A4" type="passive"/>
+        <pin num="A5" name="A5" type="passive"/>
+        <pin num="A6" name="A6" type="passive"/>
+        <pin num="A7" name="A7" type="passive"/>
+        <pin num="A8" name="A8" type="no_connect"/>
+        <pin num="A9" name="A9" type="passive"/>
+        <pin num="A12" name="A12" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="B4" name="B4" type="passive"/>
+        <pin num="B5" name="B5" type="passive"/>
+        <pin num="B6" name="B6" type="passive"/>
+        <pin num="B7" name="B7" type="passive"/>
+        <pin num="B8" name="B8" type="no_connect"/>
+        <pin num="B9" name="B9" type="passive"/>
+        <pin num="B12" name="B12" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="J2_header">
+      <fields>
+        <field name="Reference">J2</field>
+        <field name="Value">P1</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1_0" type="passive"/>
+        <pin num="2" name="P1_1" type="passive"/>
+        <pin num="3" name="P1_2" type="passive"/>
+        <pin num="4" name="P1_3" type="passive"/>
+        <pin num="5" name="P1_4" type="passive"/>
+        <pin num="6" name="P1_5" type="passive"/>
+        <pin num="7" name="P1_6" type="passive"/>
+        <pin num="8" name="P1_7" type="passive"/>
+        <pin num="9" name="+5V" type="passive"/>
+        <pin num="10" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="J3_header">
+      <fields>
+        <field name="Reference">J3</field>
+        <field name="Value">P4</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P4_0" type="passive"/>
+        <pin num="2" name="P4_1" type="passive"/>
+        <pin num="3" name="P4_2" type="passive"/>
+        <pin num="4" name="P4_3" type="passive"/>
+        <pin num="5" name="P4_4" type="passive"/>
+        <pin num="6" name="P4_5" type="passive"/>
+        <pin num="7" name="P4_6" type="passive"/>
+        <pin num="8" name="P4_7" type="passive"/>
+        <pin num="9" name="+5V" type="passive"/>
+        <pin num="10" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="J4_header">
+      <fields>
+        <field name="Reference">J4</field>
+        <field name="Value">P5</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P5_0" type="passive"/>
+        <pin num="2" name="P5_1" type="passive"/>
+        <pin num="3" name="P5_2" type="passive"/>
+        <pin num="4" name="P5_3" type="passive"/>
+        <pin num="5" name="P5_4" type="passive"/>
+        <pin num="6" name="P5_5" type="passive"/>
+        <pin num="7" name="P5_6" type="passive"/>
+        <pin num="8" name="P5_7" type="passive"/>
+        <pin num="9" name="+5V" type="passive"/>
+        <pin num="10" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="J5_header">
+      <fields>
+        <field name="Reference">J5</field>
+        <field name="Value">ANALOG</field>
+        <field name="Footprint">Retro535:PinHeader_2x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="AN0" type="passive"/>
+        <pin num="2" name="AN1" type="passive"/>
+        <pin num="3" name="AN2" type="passive"/>
+        <pin num="4" name="AN3" type="passive"/>
+        <pin num="5" name="AN4" type="passive"/>
+        <pin num="6" name="AN5" type="passive"/>
+        <pin num="7" name="AN6" type="passive"/>
+        <pin num="8" name="AN7" type="passive"/>
+        <pin num="9" name="AVREF" type="passive"/>
+        <pin num="10" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="J6_header">
+      <fields>
+        <field name="Reference">J6</field>
+        <field name="Value">P3 / UART</field>
+        <field name="Footprint">Retro535:PinHeader_2x04_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="RXD" type="passive"/>
+        <pin num="2" name="TXD" type="passive"/>
+        <pin num="3" name="P3_2_INT0_N" type="passive"/>
+        <pin num="4" name="P3_3_INT1_N" type="passive"/>
+        <pin num="5" name="P3_4_T0" type="passive"/>
+        <pin num="6" name="P3_5_T1" type="passive"/>
+        <pin num="7" name="RESET_N" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="J7_header">
+      <fields>
+        <field name="Reference">J7</field>
+        <field name="Value">BUS RESERVED</field>
+        <field name="Footprint">Retro535:PinHeader_2x15_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="D0" type="passive"/>
+        <pin num="2" name="D1" type="passive"/>
+        <pin num="3" name="D2" type="passive"/>
+        <pin num="4" name="D3" type="passive"/>
+        <pin num="5" name="D4" type="passive"/>
+        <pin num="6" name="D5" type="passive"/>
+        <pin num="7" name="D6" type="passive"/>
+        <pin num="8" name="D7" type="passive"/>
+        <pin num="9" name="A0" type="passive"/>
+        <pin num="10" name="A1" type="passive"/>
+        <pin num="11" name="A2" type="passive"/>
+        <pin num="12" name="A3" type="passive"/>
+        <pin num="13" name="A4" type="passive"/>
+        <pin num="14" name="A5" type="passive"/>
+        <pin num="15" name="A6" type="passive"/>
+        <pin num="16" name="A7" type="passive"/>
+        <pin num="17" name="A8" type="passive"/>
+        <pin num="18" name="A9" type="passive"/>
+        <pin num="19" name="A10" type="passive"/>
+        <pin num="20" name="A11" type="passive"/>
+        <pin num="21" name="A12" type="passive"/>
+        <pin num="22" name="A13" type="passive"/>
+        <pin num="23" name="A14" type="passive"/>
+        <pin num="24" name="A15" type="passive"/>
+        <pin num="25" name="PSEN_N" type="passive"/>
+        <pin num="26" name="ALE" type="passive"/>
+        <pin num="27" name="RD_N" type="passive"/>
+        <pin num="28" name="WR_N" type="passive"/>
+        <pin num="29" name="+5V" type="passive"/>
+        <pin num="30" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="JP1_jumper">
+      <fields>
+        <field name="Reference">JP1</field>
+        <field name="Value">RUN - FIT AFTER FT_PROG</field>
+        <field name="Footprint">Retro535:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="JP2_jumper">
+      <fields>
+        <field name="Reference">JP2</field>
+        <field name="Value">USB RX LINK</field>
+        <field name="Footprint">Retro535:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="Q1_ic">
+      <fields>
+        <field name="Reference">Q1</field>
+        <field name="Value">MMBT3904</field>
+        <field name="Footprint">Retro535:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R10_r">
+      <fields>
+        <field name="Reference">R10</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R11_r">
+      <fields>
+        <field name="Reference">R11</field>
+        <field name="Value">47k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R12_r">
+      <fields>
+        <field name="Reference">R12</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R13_r">
+      <fields>
+        <field name="Reference">R13</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R14_r">
+      <fields>
+        <field name="Reference">R14</field>
+        <field name="Value">3.3k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R15_r">
+      <fields>
+        <field name="Reference">R15</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R1_r">
+      <fields>
+        <field name="Reference">R1</field>
+        <field name="Value">5.1k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R20_r">
+      <fields>
+        <field name="Reference">R20</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R21_r">
+      <fields>
+        <field name="Reference">R21</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R22_r">
+      <fields>
+        <field name="Reference">R22</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R23_r">
+      <fields>
+        <field name="Reference">R23</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R24_r">
+      <fields>
+        <field name="Reference">R24</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R25_r">
+      <fields>
+        <field name="Reference">R25</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R26_r">
+      <fields>
+        <field name="Reference">R26</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R27_r">
+      <fields>
+        <field name="Reference">R27</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R2_r">
+      <fields>
+        <field name="Reference">R2</field>
+        <field name="Value">5.1k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R3_r">
+      <fields>
+        <field name="Reference">R3</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R4_r">
+      <fields>
+        <field name="Reference">R4</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R5_r">
+      <fields>
+        <field name="Reference">R5</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R6_r">
+      <fields>
+        <field name="Reference">R6</field>
+        <field name="Value">2.2k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R7_r">
+      <fields>
+        <field name="Reference">R7</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R8_r">
+      <fields>
+        <field name="Reference">R8</field>
+        <field name="Value">10</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="R9_r">
+      <fields>
+        <field name="Reference">R9</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Retro535:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="SW1_switch">
+      <fields>
+        <field name="Reference">SW1</field>
+        <field name="Value">RESET</field>
+        <field name="Footprint">Retro535:SW_PUSH_6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP10_tp">
+      <fields>
+        <field name="Reference">TP10</field>
+        <field name="Value">OC_N</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP1_tp">
+      <fields>
+        <field name="Reference">TP1</field>
+        <field name="Value">GND</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP2_tp">
+      <fields>
+        <field name="Reference">TP2</field>
+        <field name="Value">+5V_USB</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP3_tp">
+      <fields>
+        <field name="Reference">TP3</field>
+        <field name="Value">+5V</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP4_tp">
+      <fields>
+        <field name="Reference">TP4</field>
+        <field name="Value">RESET_N</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP5_tp">
+      <fields>
+        <field name="Reference">TP5</field>
+        <field name="Value">ALE</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP6_tp">
+      <fields>
+        <field name="Reference">TP6</field>
+        <field name="Value">PSEN_N</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP7_tp">
+      <fields>
+        <field name="Reference">TP7</field>
+        <field name="Value">RD_N</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP8_tp">
+      <fields>
+        <field name="Reference">TP8</field>
+        <field name="Value">WR_N</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="TP9_tp">
+      <fields>
+        <field name="Reference">TP9</field>
+        <field name="Value">AVREF</field>
+        <field name="Footprint">Retro535:TestPoint_Pad_D2.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U1_ic">
+      <docs>https://www.ardent-tool.com/datasheets/Siemens_SAB80515_80535.pdf</docs>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">SAB80535-N</field>
+        <field name="Footprint">Retro535:PLCC68_PreciDip_540-99-068-24-000-1</field>
+        <field name="Datasheet">https://www.ardent-tool.com/datasheets/Siemens_SAB80515_80535.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P4_0" type="bidirectional"/>
+        <pin num="2" name="P4_1" type="bidirectional"/>
+        <pin num="3" name="P4_2" type="bidirectional"/>
+        <pin num="4" name="VPD" type="power_in"/>
+        <pin num="5" name="P4_3" type="bidirectional"/>
+        <pin num="6" name="P4_4" type="bidirectional"/>
+        <pin num="7" name="P4_5" type="bidirectional"/>
+        <pin num="8" name="P4_6" type="bidirectional"/>
+        <pin num="9" name="P4_7" type="bidirectional"/>
+        <pin num="10" name="RESET_N" type="input"/>
+        <pin num="11" name="VAREF" type="power_in"/>
+        <pin num="12" name="VAGND" type="power_in"/>
+        <pin num="13" name="AN7" type="input"/>
+        <pin num="14" name="AN6" type="input"/>
+        <pin num="15" name="AN5" type="input"/>
+        <pin num="16" name="AN4" type="input"/>
+        <pin num="17" name="AN3" type="input"/>
+        <pin num="18" name="AN2" type="input"/>
+        <pin num="19" name="AN1" type="input"/>
+        <pin num="20" name="AN0" type="input"/>
+        <pin num="21" name="P3.0/RXD" type="bidirectional"/>
+        <pin num="22" name="P3.1/TXD" type="bidirectional"/>
+        <pin num="23" name="P3.2/P3_2_INT0_N" type="bidirectional"/>
+        <pin num="24" name="P3.3/P3_3_INT1_N" type="bidirectional"/>
+        <pin num="25" name="P3.4/P3_4_T0" type="bidirectional"/>
+        <pin num="26" name="P3.5/P3_5_T1" type="bidirectional"/>
+        <pin num="27" name="P3.6/WR_N" type="bidirectional"/>
+        <pin num="28" name="P3.7/RD_N" type="bidirectional"/>
+        <pin num="29" name="P1_7" type="bidirectional"/>
+        <pin num="30" name="P1_6" type="bidirectional"/>
+        <pin num="31" name="P1_5" type="bidirectional"/>
+        <pin num="32" name="P1_4" type="bidirectional"/>
+        <pin num="33" name="P1_3" type="bidirectional"/>
+        <pin num="34" name="P1_2" type="bidirectional"/>
+        <pin num="35" name="P1_1" type="bidirectional"/>
+        <pin num="36" name="P1_0" type="bidirectional"/>
+        <pin num="37" name="VBB" type="passive"/>
+        <pin num="38" name="VSS" type="power_in"/>
+        <pin num="39" name="XTAL2" type="output"/>
+        <pin num="40" name="XTAL1" type="input"/>
+        <pin num="41" name="P2.0/A8" type="bidirectional"/>
+        <pin num="42" name="P2.1/A9" type="bidirectional"/>
+        <pin num="43" name="P2.2/A10" type="bidirectional"/>
+        <pin num="44" name="P2.3/A11" type="bidirectional"/>
+        <pin num="45" name="P2.4/A12" type="bidirectional"/>
+        <pin num="46" name="P2.5/A13" type="bidirectional"/>
+        <pin num="47" name="P2.6/A14" type="bidirectional"/>
+        <pin num="48" name="P2.7/A15" type="bidirectional"/>
+        <pin num="49" name="PSEN_N" type="output"/>
+        <pin num="50" name="ALE" type="output"/>
+        <pin num="51" name="EA_N" type="input"/>
+        <pin num="52" name="P0.0/AD0" type="bidirectional"/>
+        <pin num="53" name="P0.1/AD1" type="bidirectional"/>
+        <pin num="54" name="P0.2/AD2" type="bidirectional"/>
+        <pin num="55" name="P0.3/AD3" type="bidirectional"/>
+        <pin num="56" name="P0.4/AD4" type="bidirectional"/>
+        <pin num="57" name="P0.5/AD5" type="bidirectional"/>
+        <pin num="58" name="P0.6/AD6" type="bidirectional"/>
+        <pin num="59" name="P0.7/AD7" type="bidirectional"/>
+        <pin num="60" name="P5_7" type="bidirectional"/>
+        <pin num="61" name="P5_6" type="bidirectional"/>
+        <pin num="62" name="P5_5" type="bidirectional"/>
+        <pin num="63" name="P5_4" type="bidirectional"/>
+        <pin num="64" name="P5_3" type="bidirectional"/>
+        <pin num="65" name="P5_2" type="bidirectional"/>
+        <pin num="66" name="P5_1" type="bidirectional"/>
+        <pin num="67" name="P5_0" type="bidirectional"/>
+        <pin num="68" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U2_ic">
+      <docs>https://www.ti.com/lit/ds/symlink/sn74hct573.pdf</docs>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">74HCT573</field>
+        <field name="Footprint">Retro535:SOIC-20W_7.5x12.8mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74hct573.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="OE_N" type="input"/>
+        <pin num="2" name="D0" type="input"/>
+        <pin num="3" name="D1" type="input"/>
+        <pin num="4" name="D2" type="input"/>
+        <pin num="5" name="D3" type="input"/>
+        <pin num="6" name="D4" type="input"/>
+        <pin num="7" name="D5" type="input"/>
+        <pin num="8" name="D6" type="input"/>
+        <pin num="9" name="D7" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="LE" type="input"/>
+        <pin num="12" name="Q7" type="output"/>
+        <pin num="13" name="Q6" type="output"/>
+        <pin num="14" name="Q5" type="output"/>
+        <pin num="15" name="Q4" type="output"/>
+        <pin num="16" name="Q3" type="output"/>
+        <pin num="17" name="Q2" type="output"/>
+        <pin num="18" name="Q1" type="output"/>
+        <pin num="19" name="Q0" type="output"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U3_ic">
+      <docs>https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/SST39SF010A-SST39SF020A-SST39SF040-Data-Sheet-DS20005022.pdf</docs>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">SST39SF010A-70-4C-PHE</field>
+        <field name="Footprint">Retro535:DIP-32_W15.24mm_Socket_LongPads</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/SST39SF010A-SST39SF020A-SST39SF040-Data-Sheet-DS20005022.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="A16" type="input"/>
+        <pin num="3" name="A15" type="input"/>
+        <pin num="4" name="A12" type="input"/>
+        <pin num="5" name="A7" type="input"/>
+        <pin num="6" name="A6" type="input"/>
+        <pin num="7" name="A5" type="input"/>
+        <pin num="8" name="A4" type="input"/>
+        <pin num="9" name="A3" type="input"/>
+        <pin num="10" name="A2" type="input"/>
+        <pin num="11" name="A1" type="input"/>
+        <pin num="12" name="A0" type="input"/>
+        <pin num="13" name="D0" type="bidirectional"/>
+        <pin num="14" name="D1" type="bidirectional"/>
+        <pin num="15" name="D2" type="bidirectional"/>
+        <pin num="16" name="VSS" type="power_in"/>
+        <pin num="17" name="D3" type="bidirectional"/>
+        <pin num="18" name="D4" type="bidirectional"/>
+        <pin num="19" name="D5" type="bidirectional"/>
+        <pin num="20" name="D6" type="bidirectional"/>
+        <pin num="21" name="D7" type="bidirectional"/>
+        <pin num="22" name="CE_N" type="input"/>
+        <pin num="23" name="A10" type="input"/>
+        <pin num="24" name="OE_N" type="input"/>
+        <pin num="25" name="A11" type="input"/>
+        <pin num="26" name="A9" type="input"/>
+        <pin num="27" name="A8" type="input"/>
+        <pin num="28" name="A13" type="input"/>
+        <pin num="29" name="A14" type="input"/>
+        <pin num="30" name="NC" type="no_connect"/>
+        <pin num="31" name="WE_N" type="input"/>
+        <pin num="32" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U4_ic">
+      <docs>https://www.alliancememory.com/wp-content/uploads/AS6C62256A-70PCN_AS6C62256A.pdf</docs>
+      <fields>
+        <field name="Reference">U4</field>
+        <field name="Value">AS6C62256A-70PCN</field>
+        <field name="Footprint">Retro535:DIP-28_W15.24mm_Socket_LongPads</field>
+        <field name="Datasheet">https://www.alliancememory.com/wp-content/uploads/AS6C62256A-70PCN_AS6C62256A.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="A14" type="input"/>
+        <pin num="2" name="A12" type="input"/>
+        <pin num="3" name="A7" type="input"/>
+        <pin num="4" name="A6" type="input"/>
+        <pin num="5" name="A5" type="input"/>
+        <pin num="6" name="A4" type="input"/>
+        <pin num="7" name="A3" type="input"/>
+        <pin num="8" name="A2" type="input"/>
+        <pin num="9" name="A1" type="input"/>
+        <pin num="10" name="A0" type="input"/>
+        <pin num="11" name="D0" type="bidirectional"/>
+        <pin num="12" name="D1" type="bidirectional"/>
+        <pin num="13" name="D2" type="bidirectional"/>
+        <pin num="14" name="VSS" type="power_in"/>
+        <pin num="15" name="D3" type="bidirectional"/>
+        <pin num="16" name="D4" type="bidirectional"/>
+        <pin num="17" name="D5" type="bidirectional"/>
+        <pin num="18" name="D6" type="bidirectional"/>
+        <pin num="19" name="D7" type="bidirectional"/>
+        <pin num="20" name="CE_N" type="input"/>
+        <pin num="21" name="A10" type="input"/>
+        <pin num="22" name="OE_N" type="input"/>
+        <pin num="23" name="A11" type="input"/>
+        <pin num="24" name="A9" type="input"/>
+        <pin num="25" name="A8" type="input"/>
+        <pin num="26" name="A13" type="input"/>
+        <pin num="27" name="WE_N" type="input"/>
+        <pin num="28" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U5_ic">
+      <docs>https://ftdichip.cn/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</docs>
+      <fields>
+        <field name="Reference">U5</field>
+        <field name="Value">FT232RL</field>
+        <field name="Footprint">Retro535:SSOP-28_5.3x10.2mm_P0.65mm</field>
+        <field name="Datasheet">https://ftdichip.cn/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="output"/>
+        <pin num="2" name="DTR_N" type="output"/>
+        <pin num="3" name="RTS_N" type="output"/>
+        <pin num="4" name="VCCIO" type="power_in"/>
+        <pin num="5" name="RXD" type="input"/>
+        <pin num="6" name="RI_N" type="input"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="NC" type="no_connect"/>
+        <pin num="9" name="DSR_N" type="input"/>
+        <pin num="10" name="DCD_N" type="input"/>
+        <pin num="11" name="CTS_N" type="input"/>
+        <pin num="12" name="CBUS4" type="output"/>
+        <pin num="13" name="CBUS2" type="output"/>
+        <pin num="14" name="CBUS3/PWREN_N" type="output"/>
+        <pin num="15" name="USBDP" type="bidirectional"/>
+        <pin num="16" name="USBDM" type="bidirectional"/>
+        <pin num="17" name="3V3OUT" type="power_out"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="RESET_N" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+        <pin num="21" name="GND" type="power_in"/>
+        <pin num="22" name="CBUS1" type="output"/>
+        <pin num="23" name="CBUS0" type="output"/>
+        <pin num="24" name="NC" type="no_connect"/>
+        <pin num="25" name="AGND" type="power_in"/>
+        <pin num="26" name="TEST" type="input"/>
+        <pin num="27" name="OSCI" type="input"/>
+        <pin num="28" name="OSCO" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U6_ic">
+      <docs>https://www.ti.com/lit/ds/symlink/tps2041b.pdf</docs>
+      <fields>
+        <field name="Reference">U6</field>
+        <field name="Value">TPS2041BDR</field>
+        <field name="Footprint">Retro535:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tps2041b.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="IN" type="power_in"/>
+        <pin num="3" name="IN" type="power_in"/>
+        <pin num="4" name="EN_N" type="input"/>
+        <pin num="5" name="OC_N" type="open_collector"/>
+        <pin num="6" name="OUT" type="power_out"/>
+        <pin num="7" name="OUT" type="passive"/>
+        <pin num="8" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U7_ic">
+      <docs>https://ww1.microchip.com/downloads/en/DeviceDoc/11184D.pdf</docs>
+      <fields>
+        <field name="Reference">U7</field>
+        <field name="Value">MCP120-475I/SN</field>
+        <field name="Footprint">Retro535:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/en/DeviceDoc/11184D.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="RESET_N" type="open_collector"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="U8_ic">
+      <docs>https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf</docs>
+      <fields>
+        <field name="Reference">U8</field>
+        <field name="Value">74AHCT125</field>
+        <field name="Footprint">Retro535:SOIC-14_3.9x8.7mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1OE_N" type="input"/>
+        <pin num="2" name="1A" type="input"/>
+        <pin num="3" name="1Y" type="tri_state"/>
+        <pin num="4" name="2OE_N" type="input"/>
+        <pin num="5" name="2A" type="input"/>
+        <pin num="6" name="2Y" type="tri_state"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="tri_state"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="3OE_N" type="input"/>
+        <pin num="11" name="4Y" type="tri_state"/>
+        <pin num="12" name="4A" type="input"/>
+        <pin num="13" name="4OE_N" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Retro535" part="Y1_crystal">
+      <docs>https://www.ecsxtal.com/store/pdf/hc-49usx.pdf</docs>
+      <fields>
+        <field name="Reference">Y1</field>
+        <field name="Value">11.0592MHz CL20p</field>
+        <field name="Footprint">Retro535:Crystal_HC49-U_Vertical</field>
+        <field name="Datasheet">https://www.ecsxtal.com/store/pdf/hc-49usx.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Retro535">
+      <uri>C:\Users\Администратор\Documents\Codex\2026-11-08\new-chat\outputs\retro535\hardware/Retro535.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V" class="Power,Default">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="+5V" pintype="passive"/>
+      <node ref="J3" pin="9" pinfunction="+5V" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="+5V" pintype="passive"/>
+      <node ref="J7" pin="29" pinfunction="+5V" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="68" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="31" pinfunction="WE_N" pintype="input"/>
+      <node ref="U3" pin="32" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="28" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U6" pin="7" pinfunction="OUT" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="OUT" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V_USB" class="Power,Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="DCD_N" pintype="input"/>
+      <node ref="U5" pin="19" pinfunction="RESET_N" pintype="input"/>
+      <node ref="U5" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="VCCIO" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="RI_N" pintype="input"/>
+      <node ref="U5" pin="9" pinfunction="DSR_N" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="IN" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="IN" pintype="power_in"/>
+      <node ref="U8" pin="10" pinfunction="3OE_N" pintype="input"/>
+      <node ref="U8" pin="13" pinfunction="4OE_N" pintype="input"/>
+      <node ref="U8" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="A0" class="Default">
+      <node ref="J7" pin="9" pinfunction="A0" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="Q0" pintype="output"/>
+      <node ref="U3" pin="12" pinfunction="A0" pintype="input"/>
+      <node ref="U4" pin="10" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="4" name="A1" class="Default">
+      <node ref="J7" pin="10" pinfunction="A1" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="Q1" pintype="output"/>
+      <node ref="U3" pin="11" pinfunction="A1" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="5" name="A2" class="Default">
+      <node ref="J7" pin="11" pinfunction="A2" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="Q2" pintype="output"/>
+      <node ref="U3" pin="10" pinfunction="A2" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="6" name="A3" class="Default">
+      <node ref="J7" pin="12" pinfunction="A3" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="Q3" pintype="output"/>
+      <node ref="U3" pin="9" pinfunction="A3" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="A3" pintype="input"/>
+    </net>
+    <net code="7" name="A4" class="Default">
+      <node ref="J7" pin="13" pinfunction="A4" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="Q4" pintype="output"/>
+      <node ref="U3" pin="8" pinfunction="A4" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="A4" pintype="input"/>
+    </net>
+    <net code="8" name="A5" class="Default">
+      <node ref="J7" pin="14" pinfunction="A5" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="Q5" pintype="output"/>
+      <node ref="U3" pin="7" pinfunction="A5" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="A5" pintype="input"/>
+    </net>
+    <net code="9" name="A6" class="Default">
+      <node ref="J7" pin="15" pinfunction="A6" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="Q6" pintype="output"/>
+      <node ref="U3" pin="6" pinfunction="A6" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="A6" pintype="input"/>
+    </net>
+    <net code="10" name="A7" class="Default">
+      <node ref="J7" pin="16" pinfunction="A7" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="Q7" pintype="output"/>
+      <node ref="U3" pin="5" pinfunction="A7" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="A7" pintype="input"/>
+    </net>
+    <net code="11" name="A8" class="Default">
+      <node ref="J7" pin="17" pinfunction="A8" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="P2.0/A8" pintype="bidirectional"/>
+      <node ref="U3" pin="27" pinfunction="A8" pintype="input"/>
+      <node ref="U4" pin="25" pinfunction="A8" pintype="input"/>
+    </net>
+    <net code="12" name="A9" class="Default">
+      <node ref="J7" pin="18" pinfunction="A9" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="P2.1/A9" pintype="bidirectional"/>
+      <node ref="U3" pin="26" pinfunction="A9" pintype="input"/>
+      <node ref="U4" pin="24" pinfunction="A9" pintype="input"/>
+    </net>
+    <net code="13" name="A10" class="Default">
+      <node ref="J7" pin="19" pinfunction="A10" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="P2.2/A10" pintype="bidirectional"/>
+      <node ref="U3" pin="23" pinfunction="A10" pintype="input"/>
+      <node ref="U4" pin="21" pinfunction="A10" pintype="input"/>
+    </net>
+    <net code="14" name="A11" class="Default">
+      <node ref="J7" pin="20" pinfunction="A11" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="P2.3/A11" pintype="bidirectional"/>
+      <node ref="U3" pin="25" pinfunction="A11" pintype="input"/>
+      <node ref="U4" pin="23" pinfunction="A11" pintype="input"/>
+    </net>
+    <net code="15" name="A12" class="Default">
+      <node ref="J7" pin="21" pinfunction="A12" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="P2.4/A12" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="A12" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="A12" pintype="input"/>
+    </net>
+    <net code="16" name="A13" class="Default">
+      <node ref="J7" pin="22" pinfunction="A13" pintype="passive"/>
+      <node ref="U1" pin="46" pinfunction="P2.5/A13" pintype="bidirectional"/>
+      <node ref="U3" pin="28" pinfunction="A13" pintype="input"/>
+      <node ref="U4" pin="26" pinfunction="A13" pintype="input"/>
+    </net>
+    <net code="17" name="A14" class="Default">
+      <node ref="J7" pin="23" pinfunction="A14" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="P2.6/A14" pintype="bidirectional"/>
+      <node ref="U3" pin="29" pinfunction="A14" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="A14" pintype="input"/>
+    </net>
+    <net code="18" name="A15" class="Default">
+      <node ref="J7" pin="24" pinfunction="A15" pintype="passive"/>
+      <node ref="U1" pin="48" pinfunction="P2.7/A15" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="A15" pintype="input"/>
+      <node ref="U4" pin="20" pinfunction="CE_N" pintype="input"/>
+    </net>
+    <net code="19" name="ALE" class="Default">
+      <node ref="J7" pin="26" pinfunction="ALE" pintype="passive"/>
+      <node ref="TP5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="50" pinfunction="ALE" pintype="output"/>
+      <node ref="U2" pin="11" pinfunction="LE" pintype="input"/>
+    </net>
+    <net code="20" name="AN0" class="Default">
+      <node ref="J5" pin="1" pinfunction="AN0" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="AN0" pintype="input"/>
+    </net>
+    <net code="21" name="AN1" class="Default">
+      <node ref="J5" pin="2" pinfunction="AN1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="AN1" pintype="input"/>
+    </net>
+    <net code="22" name="AN2" class="Default">
+      <node ref="J5" pin="3" pinfunction="AN2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AN2" pintype="input"/>
+    </net>
+    <net code="23" name="AN3" class="Default">
+      <node ref="J5" pin="4" pinfunction="AN3" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="AN3" pintype="input"/>
+    </net>
+    <net code="24" name="AN4" class="Default">
+      <node ref="J5" pin="5" pinfunction="AN4" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="AN4" pintype="input"/>
+    </net>
+    <net code="25" name="AN5" class="Default">
+      <node ref="J5" pin="6" pinfunction="AN5" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="AN5" pintype="input"/>
+    </net>
+    <net code="26" name="AN6" class="Default">
+      <node ref="J5" pin="7" pinfunction="AN6" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="AN6" pintype="input"/>
+    </net>
+    <net code="27" name="AN7" class="Default">
+      <node ref="J5" pin="8" pinfunction="AN7" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="AN7" pintype="input"/>
+    </net>
+    <net code="28" name="AVREF" class="Default">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="J5" pin="9" pinfunction="AVREF" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="TP9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="VAREF" pintype="power_in"/>
+    </net>
+    <net code="29" name="CC1" class="Default">
+      <node ref="J1" pin="A5" pinfunction="A5" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="CC2" class="Default">
+      <node ref="J1" pin="B5" pinfunction="B5" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="D0" class="Default">
+      <node ref="J7" pin="1" pinfunction="D0" pintype="passive"/>
+      <node ref="U1" pin="52" pinfunction="P0.0/AD0" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="D0" pintype="input"/>
+      <node ref="U3" pin="13" pinfunction="D0" pintype="bidirectional"/>
+      <node ref="U4" pin="11" pinfunction="D0" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="D1" class="Default">
+      <node ref="J7" pin="2" pinfunction="D1" pintype="passive"/>
+      <node ref="U1" pin="53" pinfunction="P0.1/AD1" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="D1" pintype="input"/>
+      <node ref="U3" pin="14" pinfunction="D1" pintype="bidirectional"/>
+      <node ref="U4" pin="12" pinfunction="D1" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="D2" class="Default">
+      <node ref="J7" pin="3" pinfunction="D2" pintype="passive"/>
+      <node ref="U1" pin="54" pinfunction="P0.2/AD2" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="D2" pintype="input"/>
+      <node ref="U3" pin="15" pinfunction="D2" pintype="bidirectional"/>
+      <node ref="U4" pin="13" pinfunction="D2" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="D3" class="Default">
+      <node ref="J7" pin="4" pinfunction="D3" pintype="passive"/>
+      <node ref="U1" pin="55" pinfunction="P0.3/AD3" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="D3" pintype="input"/>
+      <node ref="U3" pin="17" pinfunction="D3" pintype="bidirectional"/>
+      <node ref="U4" pin="15" pinfunction="D3" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="D4" class="Default">
+      <node ref="J7" pin="5" pinfunction="D4" pintype="passive"/>
+      <node ref="U1" pin="56" pinfunction="P0.4/AD4" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="D4" pintype="input"/>
+      <node ref="U3" pin="18" pinfunction="D4" pintype="bidirectional"/>
+      <node ref="U4" pin="16" pinfunction="D4" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="D5" class="Default">
+      <node ref="J7" pin="6" pinfunction="D5" pintype="passive"/>
+      <node ref="U1" pin="57" pinfunction="P0.5/AD5" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="D5" pintype="input"/>
+      <node ref="U3" pin="19" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="U4" pin="17" pinfunction="D5" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="D6" class="Default">
+      <node ref="J7" pin="7" pinfunction="D6" pintype="passive"/>
+      <node ref="U1" pin="58" pinfunction="P0.6/AD6" pintype="bidirectional"/>
+      <node ref="U2" pin="8" pinfunction="D6" pintype="input"/>
+      <node ref="U3" pin="20" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="U4" pin="18" pinfunction="D6" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="D7" class="Default">
+      <node ref="J7" pin="8" pinfunction="D7" pintype="passive"/>
+      <node ref="U1" pin="59" pinfunction="P0.7/AD7" pintype="bidirectional"/>
+      <node ref="U2" pin="9" pinfunction="D7" pintype="input"/>
+      <node ref="U3" pin="21" pinfunction="D7" pintype="bidirectional"/>
+      <node ref="U4" pin="19" pinfunction="D7" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="EN_N" class="Default">
+      <node ref="JP1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="EN_N" pintype="input"/>
+    </net>
+    <net code="40" name="FT_3V3" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U5" pin="17" pinfunction="3V3OUT" pintype="power_out"/>
+    </net>
+    <net code="41" name="FT_RX" class="Default">
+      <node ref="U5" pin="5" pinfunction="RXD" pintype="input"/>
+      <node ref="U8" pin="6" pinfunction="2Y" pintype="tri_state"/>
+    </net>
+    <net code="42" name="FT_TX" class="Default">
+      <node ref="U5" pin="1" pinfunction="TXD" pintype="output"/>
+      <node ref="U8" pin="2" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="43" name="GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="A1" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="A12" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="B1" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="B12" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="S1" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="10" pinfunction="GND" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="GND" pintype="passive"/>
+      <node ref="J5" pin="10" pinfunction="GND" pintype="passive"/>
+      <node ref="J6" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="J7" pin="30" pinfunction="GND" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="VAGND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="VPD" pintype="power_in"/>
+      <node ref="U1" pin="51" pinfunction="EA_N" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="OE_N" pintype="input"/>
+      <node ref="U2" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="16" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="A16" pintype="input"/>
+      <node ref="U3" pin="22" pinfunction="CE_N" pintype="input"/>
+      <node ref="U4" pin="14" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="11" pinfunction="CTS_N" pintype="input"/>
+      <node ref="U5" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="21" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="25" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U5" pin="26" pinfunction="TEST" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="12" pinfunction="4A" pintype="input"/>
+      <node ref="U8" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="44" name="OC_N" class="Default">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="TP10" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="OC_N" pintype="open_collector"/>
+    </net>
+    <net code="45" name="P1_0" class="Default">
+      <node ref="J2" pin="1" pinfunction="P1_0" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="P1_0" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="P1_1" class="Default">
+      <node ref="J2" pin="2" pinfunction="P1_1" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="P1_1" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="P1_2" class="Default">
+      <node ref="J2" pin="3" pinfunction="P1_2" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="P1_2" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="P1_3" class="Default">
+      <node ref="J2" pin="4" pinfunction="P1_3" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="P1_3" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="P1_4" class="Default">
+      <node ref="J2" pin="5" pinfunction="P1_4" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="P1_4" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="P1_5" class="Default">
+      <node ref="J2" pin="6" pinfunction="P1_5" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="P1_5" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="P1_6" class="Default">
+      <node ref="J2" pin="7" pinfunction="P1_6" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="P1_6" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="P1_7" class="Default">
+      <node ref="J2" pin="8" pinfunction="P1_7" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="P1_7" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="P3_2_INT0_N" class="Default">
+      <node ref="J6" pin="3" pinfunction="P3_2_INT0_N" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="P3.2/P3_2_INT0_N" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="P3_3_INT1_N" class="Default">
+      <node ref="J6" pin="4" pinfunction="P3_3_INT1_N" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="P3.3/P3_3_INT1_N" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="P3_4_T0" class="Default">
+      <node ref="J6" pin="5" pinfunction="P3_4_T0" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="P3.4/P3_4_T0" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="P3_5_T1" class="Default">
+      <node ref="J6" pin="6" pinfunction="P3_5_T1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="P3.5/P3_5_T1" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="P4_0" class="Default">
+      <node ref="D3" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="P4_0" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="P4_0" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="P4_1" class="Default">
+      <node ref="J3" pin="2" pinfunction="P4_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="P4_1" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="P4_2" class="Default">
+      <node ref="J3" pin="3" pinfunction="P4_2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="P4_2" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="P4_3" class="Default">
+      <node ref="J3" pin="4" pinfunction="P4_3" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="P4_3" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="P4_4" class="Default">
+      <node ref="J3" pin="5" pinfunction="P4_4" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="P4_4" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="P4_5" class="Default">
+      <node ref="J3" pin="6" pinfunction="P4_5" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="P4_5" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="P4_6" class="Default">
+      <node ref="J3" pin="7" pinfunction="P4_6" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="P4_6" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="P4_7" class="Default">
+      <node ref="J3" pin="8" pinfunction="P4_7" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="P4_7" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="P5_0" class="Default">
+      <node ref="J4" pin="1" pinfunction="P5_0" pintype="passive"/>
+      <node ref="U1" pin="67" pinfunction="P5_0" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="P5_1" class="Default">
+      <node ref="J4" pin="2" pinfunction="P5_1" pintype="passive"/>
+      <node ref="U1" pin="66" pinfunction="P5_1" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="P5_2" class="Default">
+      <node ref="J4" pin="3" pinfunction="P5_2" pintype="passive"/>
+      <node ref="U1" pin="65" pinfunction="P5_2" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="P5_3" class="Default">
+      <node ref="J4" pin="4" pinfunction="P5_3" pintype="passive"/>
+      <node ref="U1" pin="64" pinfunction="P5_3" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="P5_4" class="Default">
+      <node ref="J4" pin="5" pinfunction="P5_4" pintype="passive"/>
+      <node ref="U1" pin="63" pinfunction="P5_4" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="P5_5" class="Default">
+      <node ref="J4" pin="6" pinfunction="P5_5" pintype="passive"/>
+      <node ref="U1" pin="62" pinfunction="P5_5" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="P5_6" class="Default">
+      <node ref="J4" pin="7" pinfunction="P5_6" pintype="passive"/>
+      <node ref="U1" pin="61" pinfunction="P5_6" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="P5_7" class="Default">
+      <node ref="J4" pin="8" pinfunction="P5_7" pintype="passive"/>
+      <node ref="U1" pin="60" pinfunction="P5_7" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="PSEN_N" class="Default">
+      <node ref="J7" pin="25" pinfunction="PSEN_N" pintype="passive"/>
+      <node ref="TP6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="49" pinfunction="PSEN_N" pintype="output"/>
+      <node ref="U3" pin="24" pinfunction="OE_N" pintype="input"/>
+    </net>
+    <net code="74" name="PWREN_N" class="Default">
+      <node ref="JP1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U5" pin="14" pinfunction="CBUS3/PWREN_N" pintype="output"/>
+    </net>
+    <net code="75" name="PWR_LED_A" class="Default">
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="RD_N" class="Default">
+      <node ref="J7" pin="27" pinfunction="RD_N" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="TP7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="P3.7/RD_N" pintype="bidirectional"/>
+      <node ref="U4" pin="22" pinfunction="OE_N" pintype="input"/>
+    </net>
+    <net code="77" name="RESET_N" class="Default">
+      <node ref="J6" pin="7" pinfunction="RESET_N" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="RESET_N" pintype="input"/>
+      <node ref="U7" pin="1" pinfunction="RESET_N" pintype="open_collector"/>
+    </net>
+    <net code="78" name="RXD" class="Default">
+      <node ref="J6" pin="1" pinfunction="RXD" pintype="passive"/>
+      <node ref="JP2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="P3.0/RXD" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="TXD" class="Default">
+      <node ref="J6" pin="2" pinfunction="TXD" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="P3.1/TXD" pintype="bidirectional"/>
+      <node ref="U8" pin="5" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="80" name="UART_BASE" class="Default">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="81" name="UART_OE_N" class="Default">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="open_collector"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="1OE_N" pintype="input"/>
+      <node ref="U8" pin="4" pinfunction="2OE_N" pintype="input"/>
+    </net>
+    <net code="82" name="UART_RX_BUF" class="Default">
+      <node ref="JP2" pin="1" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="1Y" pintype="tri_state"/>
+    </net>
+    <net code="83" name="USB_DM" class="Default">
+      <node ref="D1" pin="3" pinfunction="IO2" pintype="passive"/>
+      <node ref="D1" pin="4" pinfunction="IO2" pintype="passive"/>
+      <node ref="J1" pin="A7" pinfunction="A7" pintype="passive"/>
+      <node ref="J1" pin="B7" pinfunction="B7" pintype="passive"/>
+      <node ref="U5" pin="16" pinfunction="USBDM" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="USB_DP" class="Default">
+      <node ref="D1" pin="1" pinfunction="IO1" pintype="passive"/>
+      <node ref="D1" pin="6" pinfunction="IO1" pintype="passive"/>
+      <node ref="J1" pin="A6" pinfunction="A6" pintype="passive"/>
+      <node ref="J1" pin="B6" pinfunction="B6" pintype="passive"/>
+      <node ref="U5" pin="15" pinfunction="USBDP" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="USER_LED_A" class="Default">
+      <node ref="D3" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="86" name="VBB" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="VBB" pintype="passive"/>
+    </net>
+    <net code="87" name="VBUS" class="Power,Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="5" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="A4" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="A9" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="B4" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="B9" pintype="passive"/>
+    </net>
+    <net code="88" name="VBUS_F" class="Power,Default">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+    </net>
+    <net code="89" name="WR_N" class="Default">
+      <node ref="J7" pin="28" pinfunction="WR_N" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="TP8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="P3.6/WR_N" pintype="bidirectional"/>
+      <node ref="U4" pin="27" pinfunction="WE_N" pintype="input"/>
+    </net>
+    <net code="90" name="XTAL1" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="2" pintype="passive"/>
+    </net>
+    <net code="91" name="XTAL2" class="Default">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="1" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(J1-PadA8)" class="Default">
+      <node ref="J1" pin="A8" pinfunction="A8" pintype="no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(J1-PadB8)" class="Default">
+      <node ref="J1" pin="B8" pinfunction="B8" pintype="no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U3-NC-Pad1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U3-NC-Pad30)" class="Default">
+      <node ref="U3" pin="30" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U5-CBUS0-Pad23)" class="Default">
+      <node ref="U5" pin="23" pinfunction="CBUS0" pintype="output+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U5-CBUS1-Pad22)" class="Default">
+      <node ref="U5" pin="22" pinfunction="CBUS1" pintype="output+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U5-CBUS2-Pad13)" class="Default">
+      <node ref="U5" pin="13" pinfunction="CBUS2" pintype="output+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U5-CBUS4-Pad12)" class="Default">
+      <node ref="U5" pin="12" pinfunction="CBUS4" pintype="output+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U5-DTR_N-Pad2)" class="Default">
+      <node ref="U5" pin="2" pinfunction="DTR_N" pintype="output+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U5-NC-Pad8)" class="Default">
+      <node ref="U5" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U5-NC-Pad24)" class="Default">
+      <node ref="U5" pin="24" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U5-OSCI-Pad27)" class="Default">
+      <node ref="U5" pin="27" pinfunction="OSCI" pintype="input+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U5-OSCO-Pad28)" class="Default">
+      <node ref="U5" pin="28" pinfunction="OSCO" pintype="output+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U5-RTS_N-Pad3)" class="Default">
+      <node ref="U5" pin="3" pinfunction="RTS_N" pintype="output+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U7-NC-Pad3)" class="Default">
+      <node ref="U7" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U7-NC-Pad5)" class="Default">
+      <node ref="U7" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U7-NC-Pad6)" class="Default">
+      <node ref="U7" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U7-NC-Pad7)" class="Default">
+      <node ref="U7" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U7-NC-Pad8)" class="Default">
+      <node ref="U7" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U8-3Y-Pad8)" class="Default">
+      <node ref="U8" pin="8" pinfunction="3Y" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(U8-4Y-Pad11)" class="Default">
+      <node ref="U8" pin="11" pinfunction="4Y" pintype="tri_state+no_connect"/>
+    </net>
+  </nets>
+</export>

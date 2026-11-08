@@ -1,0 +1,194 @@
+(footprint "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
+	(tags "LED handsolder")
+	(property "Reference" "REF**"
+		(at 4 0 0)
+		(layer "F.SilkS")
+		(uuid "4fc74d4f-b5cb-45fb-ab42-9fe910a252ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(at 0 1.65 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c7693892-6e7c-405b-bed9-4a39375590e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b4327a3-a09c-466b-951c-af8a6f692f37")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9da9d760-e546-423a-aeb4-a6456ff19e41")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -2.2 -1.15)
+		(end 2.2 1.15)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "86e6aa3d-3c68-4733-82be-d84433ca607e")
+	)
+	(fp_line
+		(start -1.85 -0.95)
+		(end 1.85 -0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cd78bc6f-85b6-4898-9fe7-f809f2b1731f")
+	)
+	(fp_line
+		(start -1.85 0.95)
+		(end -1.85 -0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bc616800-c4a2-45f9-9dc0-061786ddba3b")
+	)
+	(fp_line
+		(start 1.85 -0.95)
+		(end 1.85 0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b7a34064-c9cd-4b8d-b8b0-6280b615da5a")
+	)
+	(fp_line
+		(start 1.85 0.95)
+		(end -1.85 0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6239e533-8b29-466f-8c82-31e564801ebd")
+	)
+	(fp_line
+		(start -1 -0.3)
+		(end -1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e72e03c6-5853-4162-8a7a-ee6021279c79")
+	)
+	(fp_line
+		(start -1 0.6)
+		(end 1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e4ebd1b0-1a96-4801-ab68-4bd33985df2e")
+	)
+	(fp_line
+		(start -0.7 -0.6)
+		(end -1 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f0d84737-5346-4241-ab86-456c1ab0ff6f")
+	)
+	(fp_line
+		(start 1 -0.6)
+		(end -0.7 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "699bd73f-fb6b-4bc8-bd86-28bf0c4a9968")
+	)
+	(fp_line
+		(start 1 0.6)
+		(end 1 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82a5213e-cdaf-4abb-8289-c7aabe5096b2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "4df3b4bc-08a8-423a-8348-3d4253fa14f2")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.08)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.025 0)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.217391)
+		(uuid "ecac62a0-3045-43e8-a42e-6217e9679061")
+	)
+	(pad "2" smd roundrect
+		(at 1.025 0)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.217391)
+		(uuid "ab853036-4537-47a7-b335-b2e6da25cb2a")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/LED_0805_2012Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

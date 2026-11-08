@@ -1,0 +1,50 @@
+uCsim, Copyright (C) 1997 Daniel Drotos.
+uCsim comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `show c' for details.
+tbreak 0x110
+step 12000000
+dump iram 0x8 0xc
+tbreak sfr w 0xe8
+step 2000000
+dump sfr 0xe8 0xe8
+tbreak sfr w 0xe8
+step 2000000
+dump sfr 0xe8 0xe8
+quit
+Breakpoint 1 at 0x000110 (cond="")
+0x0110 D? 00       NOP                                               
+
+Stop at 0x000110: (104) Breakpoint
+     R0 R1 R2 R3 R4 R5 R6 R7
+     00 00 00 00 00 00 41 04
+@R0 00 .  ACC= 0x00   0 .  B= 0x00
+@R1 00 .  PSW= 0x04 CY=0 AC=0 OV=1 P=0
+SP 0x10 -> 03 42 01 00 00 00 00 00
+   DPTR= 0x0441 @DPTR= 0x00   0 .
+0x0110  ? 00       NOP                                               
+F 0x000110
+0x08                      a5 00 00 00 00 .....
+
+Stop at 0x0002b5: (109) stepped 47987844 ticks
+     R0 R1 R2 R3 R4 R5 R6 R7
+     00 00 00 00 06 0a 01 06
+@R0 00 .  ACC= 0xfc 252 .  B= 0x00
+@R1 00 .  PSW= 0xc0 CY=1 AC=1 OV=0 P=0
+SP 0x11 -> 03 5f 01 06 00 00 00 00
+   DPTR= 0x0441 @DPTR= 0x00   0 .
+0x02b5  ? 30 8d fd JNB    0x8d0x88 <TCON>.5,0x02b5                   
+F 0x0002b5
+0xe8                      fe .
+
+Stop at 0x0002b5: (109) stepped 47987760 ticks
+     R0 R1 R2 R3 R4 R5 R6 R7
+     00 00 00 00 03 0a 01 03
+@R0 00 .  ACC= 0xf9 249 .  B= 0x00
+@R1 00 .  PSW= 0xc0 CY=1 AC=1 OV=0 P=0
+SP 0x11 -> 03 5f 01 03 00 00 00 00
+   DPTR= 0x0441 @DPTR= 0x00   0 .
+0x02b5  ? 30 8d fd JNB    0x8d0x88 <TCON>.5,0x02b5                   
+F 0x0002b5
+0xe8                      ff .
+Warning: serial output interface connected to a non-terminal file.

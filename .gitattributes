@@ -1,0 +1,3 @@
+# Preserve reviewed release files and their SHA-256 across Windows/Linux clones.
+# Disable line-ending conversion; Git still detects text for diffs normally.
+* -text

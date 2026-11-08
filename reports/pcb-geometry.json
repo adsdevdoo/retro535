@@ -1,0 +1,5598 @@
+{
+  "board_size_mm": [
+    100.0,
+    80.0
+  ],
+  "outline_closed": true,
+  "copper_layers": 2,
+  "min_track_mm": 0.18,
+  "tracks": 2383,
+  "holes": [
+    {
+      "ref": "Y1",
+      "pin": "1",
+      "x": 87.0,
+      "y": -110.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "Y1",
+      "pin": "2",
+      "x": 91.88,
+      "y": -110.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "1",
+      "x": 130.5,
+      "y": -73.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "2",
+      "x": 130.5,
+      "y": -75.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "3",
+      "x": 130.5,
+      "y": -78.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "4",
+      "x": 130.5,
+      "y": -80.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "5",
+      "x": 130.5,
+      "y": -83.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "6",
+      "x": 130.5,
+      "y": -85.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "7",
+      "x": 130.5,
+      "y": -88.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "8",
+      "x": 130.5,
+      "y": -90.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "9",
+      "x": 130.5,
+      "y": -93.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "10",
+      "x": 130.5,
+      "y": -95.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "11",
+      "x": 130.5,
+      "y": -98.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "12",
+      "x": 130.5,
+      "y": -100.94,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "13",
+      "x": 130.5,
+      "y": -103.48,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "14",
+      "x": 130.5,
+      "y": -106.02,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "15",
+      "x": 145.74,
+      "y": -106.02,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "16",
+      "x": 145.74,
+      "y": -103.48,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "17",
+      "x": 145.74,
+      "y": -100.94,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "18",
+      "x": 145.74,
+      "y": -98.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "19",
+      "x": 145.74,
+      "y": -95.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "20",
+      "x": 145.74,
+      "y": -93.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "21",
+      "x": 145.74,
+      "y": -90.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "22",
+      "x": 145.74,
+      "y": -88.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "23",
+      "x": 145.74,
+      "y": -85.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "24",
+      "x": 145.74,
+      "y": -83.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "25",
+      "x": 145.74,
+      "y": -80.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "26",
+      "x": 145.74,
+      "y": -78.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "27",
+      "x": 145.74,
+      "y": -75.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U4",
+      "pin": "28",
+      "x": 145.74,
+      "y": -73.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "H4",
+      "pin": "",
+      "x": 146.0,
+      "y": -126.0,
+      "drill": [
+        3.2,
+        3.2
+      ],
+      "rotation": 0.0,
+      "plated": false
+    },
+    {
+      "ref": "J3",
+      "pin": "1",
+      "x": 83.0,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "2",
+      "x": 83.0,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "3",
+      "x": 85.54,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "4",
+      "x": 85.54,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "5",
+      "x": 88.08,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "6",
+      "x": 88.08,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "7",
+      "x": 90.62,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "8",
+      "x": 90.62,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "9",
+      "x": 93.16,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J3",
+      "pin": "10",
+      "x": 93.16,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "1",
+      "x": 109.0,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "2",
+      "x": 109.0,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "3",
+      "x": 111.54,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "4",
+      "x": 111.54,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "5",
+      "x": 114.08,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "6",
+      "x": 114.08,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "7",
+      "x": 116.62,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "8",
+      "x": 116.62,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "9",
+      "x": 119.16,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "10",
+      "x": 119.16,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "11",
+      "x": 121.7,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "12",
+      "x": 121.7,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "13",
+      "x": 124.24,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "14",
+      "x": 124.24,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "15",
+      "x": 126.78,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "16",
+      "x": 126.78,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "17",
+      "x": 129.32,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "18",
+      "x": 129.32,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "19",
+      "x": 131.86,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "20",
+      "x": 131.86,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "21",
+      "x": 134.4,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "22",
+      "x": 134.4,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "23",
+      "x": 136.94,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "24",
+      "x": 136.94,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "25",
+      "x": 139.48,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "26",
+      "x": 139.48,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "27",
+      "x": 142.02,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "28",
+      "x": 142.02,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "29",
+      "x": 144.56,
+      "y": -62.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J7",
+      "pin": "30",
+      "x": 144.56,
+      "y": -59.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "JP1",
+      "pin": "1",
+      "x": 97.0,
+      "y": -55.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "JP1",
+      "pin": "2",
+      "x": 99.54,
+      "y": -55.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "JP2",
+      "pin": "1",
+      "x": 62.0,
+      "y": -112.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "JP2",
+      "pin": "2",
+      "x": 62.0,
+      "y": -114.54,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "H1",
+      "pin": "",
+      "x": 54.0,
+      "y": -54.0,
+      "drill": [
+        3.2,
+        3.2
+      ],
+      "rotation": 0.0,
+      "plated": false
+    },
+    {
+      "ref": "H2",
+      "pin": "",
+      "x": 146.0,
+      "y": -54.0,
+      "drill": [
+        3.2,
+        3.2
+      ],
+      "rotation": 0.0,
+      "plated": false
+    },
+    {
+      "ref": "U1",
+      "pin": "1",
+      "x": 81.0,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "2",
+      "x": 81.0,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "3",
+      "x": 78.46,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "4",
+      "x": 78.46,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "5",
+      "x": 75.92,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "6",
+      "x": 75.92,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "7",
+      "x": 73.38,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "8",
+      "x": 73.38,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "9",
+      "x": 70.84,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "10",
+      "x": 68.3,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "11",
+      "x": 70.84,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "12",
+      "x": 68.3,
+      "y": -82.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "13",
+      "x": 70.84,
+      "y": -82.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "14",
+      "x": 68.3,
+      "y": -84.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "15",
+      "x": 70.84,
+      "y": -84.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "16",
+      "x": 68.3,
+      "y": -87.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "17",
+      "x": 70.84,
+      "y": -87.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "18",
+      "x": 68.3,
+      "y": -89.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "19",
+      "x": 70.84,
+      "y": -89.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "20",
+      "x": 68.3,
+      "y": -92.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "21",
+      "x": 70.84,
+      "y": -92.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "22",
+      "x": 68.3,
+      "y": -94.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "23",
+      "x": 70.84,
+      "y": -94.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "24",
+      "x": 68.3,
+      "y": -97.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "25",
+      "x": 70.84,
+      "y": -97.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "26",
+      "x": 68.3,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "27",
+      "x": 70.84,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "28",
+      "x": 70.84,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "x": 73.38,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "30",
+      "x": 73.38,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "31",
+      "x": 75.92,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "32",
+      "x": 75.92,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "33",
+      "x": 78.46,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "34",
+      "x": 78.46,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "35",
+      "x": 81.0,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "36",
+      "x": 81.0,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "37",
+      "x": 83.54,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "38",
+      "x": 83.54,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "39",
+      "x": 86.08,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "40",
+      "x": 86.08,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "41",
+      "x": 88.62,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "42",
+      "x": 88.62,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "43",
+      "x": 91.16,
+      "y": -102.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "44",
+      "x": 93.7,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "45",
+      "x": 91.16,
+      "y": -99.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "46",
+      "x": 93.7,
+      "y": -97.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "47",
+      "x": 91.16,
+      "y": -97.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "48",
+      "x": 93.7,
+      "y": -94.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "49",
+      "x": 91.16,
+      "y": -94.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "50",
+      "x": 93.7,
+      "y": -92.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "51",
+      "x": 91.16,
+      "y": -92.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "52",
+      "x": 93.7,
+      "y": -89.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "53",
+      "x": 91.16,
+      "y": -89.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "54",
+      "x": 93.7,
+      "y": -87.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "55",
+      "x": 91.16,
+      "y": -87.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "56",
+      "x": 93.7,
+      "y": -84.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "57",
+      "x": 91.16,
+      "y": -84.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "58",
+      "x": 93.7,
+      "y": -82.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "59",
+      "x": 91.16,
+      "y": -82.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "60",
+      "x": 93.7,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "61",
+      "x": 91.16,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "62",
+      "x": 91.16,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "63",
+      "x": 88.62,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "64",
+      "x": 88.62,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "65",
+      "x": 86.08,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "66",
+      "x": 86.08,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "67",
+      "x": 83.54,
+      "y": -77.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U1",
+      "pin": "68",
+      "x": 83.54,
+      "y": -79.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "1",
+      "x": 65.0,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "2",
+      "x": 65.0,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "3",
+      "x": 67.54,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "4",
+      "x": 67.54,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "5",
+      "x": 70.08,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "6",
+      "x": 70.08,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "7",
+      "x": 72.62,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "8",
+      "x": 72.62,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "9",
+      "x": 75.16,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J2",
+      "pin": "10",
+      "x": 75.16,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "1",
+      "x": 54.0,
+      "y": -105.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "2",
+      "x": 56.54,
+      "y": -105.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "3",
+      "x": 54.0,
+      "y": -107.54,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "4",
+      "x": 56.54,
+      "y": -107.54,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "5",
+      "x": 54.0,
+      "y": -110.08,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "6",
+      "x": 56.54,
+      "y": -110.08,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "7",
+      "x": 54.0,
+      "y": -112.62,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "8",
+      "x": 56.54,
+      "y": -112.62,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "9",
+      "x": 54.0,
+      "y": -115.16,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "J5",
+      "pin": "10",
+      "x": 56.54,
+      "y": -115.16,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "1",
+      "x": 111.0,
+      "y": -73.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "2",
+      "x": 111.0,
+      "y": -75.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "3",
+      "x": 111.0,
+      "y": -78.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "4",
+      "x": 111.0,
+      "y": -80.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "5",
+      "x": 111.0,
+      "y": -83.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "6",
+      "x": 111.0,
+      "y": -85.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "7",
+      "x": 111.0,
+      "y": -88.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "8",
+      "x": 111.0,
+      "y": -90.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "9",
+      "x": 111.0,
+      "y": -93.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "10",
+      "x": 111.0,
+      "y": -95.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "11",
+      "x": 111.0,
+      "y": -98.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "12",
+      "x": 111.0,
+      "y": -100.94,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "13",
+      "x": 111.0,
+      "y": -103.48,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "14",
+      "x": 111.0,
+      "y": -106.02,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "15",
+      "x": 111.0,
+      "y": -108.56,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "16",
+      "x": 111.0,
+      "y": -111.1,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "17",
+      "x": 126.24,
+      "y": -111.1,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "18",
+      "x": 126.24,
+      "y": -108.56,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "19",
+      "x": 126.24,
+      "y": -106.02,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "20",
+      "x": 126.24,
+      "y": -103.48,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "21",
+      "x": 126.24,
+      "y": -100.94,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "22",
+      "x": 126.24,
+      "y": -98.4,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "23",
+      "x": 126.24,
+      "y": -95.86,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "24",
+      "x": 126.24,
+      "y": -93.32,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "25",
+      "x": 126.24,
+      "y": -90.78,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "26",
+      "x": 126.24,
+      "y": -88.24,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "27",
+      "x": 126.24,
+      "y": -85.7,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "28",
+      "x": 126.24,
+      "y": -83.16,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "29",
+      "x": 126.24,
+      "y": -80.62,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "30",
+      "x": 126.24,
+      "y": -78.08,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "31",
+      "x": 126.24,
+      "y": -75.54,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "U3",
+      "pin": "32",
+      "x": 126.24,
+      "y": -73.0,
+      "drill": [
+        0.8,
+        0.8
+      ],
+      "rotation": 0.0,
+      "plated": true
+    },
+    {
+      "ref": "SW1",
+      "pin": "1",
+      "x": 54.0,
+      "y": -94.0,
+      "drill": [
+        1.1,
+        1.1
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "SW1",
+      "pin": "1",
+      "x": 60.5,
+      "y": -94.0,
+      "drill": [
+        1.1,
+        1.1
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "SW1",
+      "pin": "2",
+      "x": 54.0,
+      "y": -98.5,
+      "drill": [
+        1.1,
+        1.1
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "SW1",
+      "pin": "2",
+      "x": 60.5,
+      "y": -98.5,
+      "drill": [
+        1.1,
+        1.1
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "1",
+      "x": 118.0,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "2",
+      "x": 118.0,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "3",
+      "x": 120.54,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "4",
+      "x": 120.54,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "5",
+      "x": 123.08,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "6",
+      "x": 123.08,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "7",
+      "x": 125.62,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J6",
+      "pin": "8",
+      "x": 125.62,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J1",
+      "pin": "",
+      "x": 66.89,
+      "y": -56.6,
+      "drill": [
+        0.65,
+        0.65
+      ],
+      "rotation": 180.0,
+      "plated": false
+    },
+    {
+      "ref": "J1",
+      "pin": "",
+      "x": 61.11,
+      "y": -56.6,
+      "drill": [
+        0.65,
+        0.65
+      ],
+      "rotation": 180.0,
+      "plated": false
+    },
+    {
+      "ref": "J1",
+      "pin": "S1",
+      "x": 68.32,
+      "y": -57.13,
+      "drill": [
+        0.6,
+        1.7
+      ],
+      "rotation": 180.0,
+      "plated": true
+    },
+    {
+      "ref": "J1",
+      "pin": "S1",
+      "x": 68.32,
+      "y": -52.95,
+      "drill": [
+        0.6,
+        1.4
+      ],
+      "rotation": 180.0,
+      "plated": true
+    },
+    {
+      "ref": "J1",
+      "pin": "S1",
+      "x": 59.68,
+      "y": -57.13,
+      "drill": [
+        0.6,
+        1.7
+      ],
+      "rotation": 180.0,
+      "plated": true
+    },
+    {
+      "ref": "J1",
+      "pin": "S1",
+      "x": 59.68,
+      "y": -52.95,
+      "drill": [
+        0.6,
+        1.4
+      ],
+      "rotation": 180.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "1",
+      "x": 100.0,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "2",
+      "x": 100.0,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "3",
+      "x": 102.54,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "4",
+      "x": 102.54,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "5",
+      "x": 105.08,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "6",
+      "x": 105.08,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "7",
+      "x": 107.62,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "8",
+      "x": 107.62,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "9",
+      "x": 110.16,
+      "y": -123.0,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "J4",
+      "pin": "10",
+      "x": 110.16,
+      "y": -120.46,
+      "drill": [
+        1.0,
+        1.0
+      ],
+      "rotation": 90.0,
+      "plated": true
+    },
+    {
+      "ref": "H3",
+      "pin": "",
+      "x": 54.0,
+      "y": -126.0,
+      "drill": [
+        3.2,
+        3.2
+      ],
+      "rotation": 0.0,
+      "plated": false
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 125.51,
+      "y": -54.9715,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 87.3239,
+      "y": -78.2009,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 91.746,
+      "y": -70.0,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 97.9988,
+      "y": -106.4542,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 103.3472,
+      "y": -64.6528,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 66.9625,
+      "y": -68.3498,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 101.4164,
+      "y": -85.6576,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 89.7619,
+      "y": -67.493,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 81.9625,
+      "y": -61.9695,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 91.4563,
+      "y": -61.3284,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 84.2155,
+      "y": -54.9715,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 61.6095,
+      "y": -68.3498,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 111.4748,
+      "y": -65.5838,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 106.2467,
+      "y": -75.1808,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 99.1959,
+      "y": -112.1609,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 98.314,
+      "y": -102.1286,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 132.2965,
+      "y": -112.8341,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 105.7798,
+      "y": -112.8341,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.1353,
+      "y": -109.67,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 105.4406,
+      "y": -101.9056,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 132.9382,
+      "y": -94.0978,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 115.8317,
+      "y": -102.2386,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.8685,
+      "y": -100.6297,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 104.4113,
+      "y": -103.4309,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 134.584,
+      "y": -75.54,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 114.2715,
+      "y": -81.0829,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 103.7333,
+      "y": -100.0654,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.0655,
+      "y": -102.4802,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 95.42,
+      "y": -119.6447,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 113.7642,
+      "y": -86.3951,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 113.3041,
+      "y": -119.4201,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 107.2279,
+      "y": -104.8943,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 136.94,
+      "y": -73.0,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 121.684,
+      "y": -80.62,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.2799,
+      "y": -98.5159,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 122.6935,
+      "y": -92.7473,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 107.2279,
+      "y": -97.5713,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 103.6414,
+      "y": -104.8943,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 113.0483,
+      "y": -68.0038,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.0475,
+      "y": -109.41,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 109.4985,
+      "y": -109.4581,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 97.3653,
+      "y": -93.6913,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 104.7409,
+      "y": -77.095,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 105.5807,
+      "y": -78.365,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 122.9673,
+      "y": -89.2976,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 124.1021,
+      "y": -87.0175,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 105.8866,
+      "y": -80.2808,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 109.2378,
+      "y": -81.5492,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 121.4953,
+      "y": -84.4815,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 126.2606,
+      "y": -65.0841,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 113.9111,
+      "y": -118.7428,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 114.0552,
+      "y": -88.079,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 91.9594,
+      "y": -119.5612,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 104.9751,
+      "y": -70.9327,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 106.3863,
+      "y": -87.0118,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 96.8935,
+      "y": -109.8935,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 106.7831,
+      "y": -85.5803,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 75.5,
+      "y": -90.9376,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 58.9284,
+      "y": -106.6429,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 79.5,
+      "y": -89.5842,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 63.9397,
+      "y": -95.3753,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 82.5227,
+      "y": -88.9773,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 85.7164,
+      "y": -86.475,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 79.5,
+      "y": -90.4872,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 65.2896,
+      "y": -96.05,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 72.9816,
+      "y": -90.2609,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 84.7251,
+      "y": -89.192,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 87.5,
+      "y": -89.2654,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 62.5524,
+      "y": -103.9575,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 66.2235,
+      "y": -100.0615,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 60.9611,
+      "y": -59.8068,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 70.0269,
+      "y": -61.4755,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 99.2522,
+      "y": -102.673,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 96.9261,
+      "y": -75.1733,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 103.9916,
+      "y": -89.1635,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 95.6155,
+      "y": -88.6158,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.8043,
+      "y": -88.6158,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 96.7588,
+      "y": -77.095,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 107.3785,
+      "y": -64.037,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 96.2897,
+      "y": -78.1968,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 95.9301,
+      "y": -84.62,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 117.7882,
+      "y": -103.7368,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 104.3317,
+      "y": -107.2037,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 115.2766,
+      "y": -75.4956,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 112.0577,
+      "y": -79.35,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 109.4355,
+      "y": -79.0092,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 116.62,
+      "y": -74.3516,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 123.4558,
+      "y": -100.94,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 118.0291,
+      "y": -85.7804,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 95.9179,
+      "y": -58.9795,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 85.9064,
+      "y": -61.2608,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.7376,
+      "y": -96.0783,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.2276,
+      "y": -94.5972,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 78.2433,
+      "y": -72.4665,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.9871,
+      "y": -87.0082,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 97.4172,
+      "y": -91.46,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 67.6351,
+      "y": -73.525,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 82.5,
+      "y": -67.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 142.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 62.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 57.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 57.5,
+      "y": -127.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 137.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 117.5,
+      "y": -57.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 95.0821,
+      "y": -97.81,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 97.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 132.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 92.5,
+      "y": -72.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 127.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 57.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 147.5,
+      "y": -112.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 112.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 122.5,
+      "y": -127.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 132.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 82.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 127.5,
+      "y": -57.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 132.5,
+      "y": -127.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 127.5,
+      "y": -127.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 142.5,
+      "y": -127.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 127.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 137.5,
+      "y": -127.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.5,
+      "y": -77.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.5,
+      "y": -62.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 137.5,
+      "y": -107.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 122.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 112.5,
+      "y": -57.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 97.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 62.5,
+      "y": -127.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 92.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 112.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 107.5,
+      "y": -57.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.5,
+      "y": -57.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 117.5,
+      "y": -107.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 137.5,
+      "y": -97.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 137.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 77.5,
+      "y": -57.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 142.5,
+      "y": -112.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 117.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 77.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 142.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.5,
+      "y": -67.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 57.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 147.5,
+      "y": -107.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 122.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 87.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 137.5,
+      "y": -92.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 132.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 72.5,
+      "y": -57.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 127.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 57.5,
+      "y": -62.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 109.1987,
+      "y": -68.9675,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 82.9625,
+      "y": -80.8561,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 142.5,
+      "y": -52.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 122.5,
+      "y": -107.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 99.1763,
+      "y": -61.9695,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.5,
+      "y": -62.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 57.5,
+      "y": -97.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 137.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 92.295,
+      "y": -64.918,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 107.975,
+      "y": -53.7435,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 77.5,
+      "y": -67.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 147.5,
+      "y": -122.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 72.5,
+      "y": -67.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.5,
+      "y": -72.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 61.6459,
+      "y": -61.4,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 147.5,
+      "y": -117.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 91.039,
+      "y": -62.26,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 97.6499,
+      "y": -59.0,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 80.1347,
+      "y": -98.0449,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 74.0116,
+      "y": -113.9884,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 77.542,
+      "y": -115.6041,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 70.7843,
+      "y": -116.2287,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 70.1748,
+      "y": -126.5546,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 61.3317,
+      "y": -88.7055,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 81.6887,
+      "y": -98.7108,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 83.7844,
+      "y": -103.9564,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 76.1697,
+      "y": -114.8697,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 76.8034,
+      "y": -120.2991,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 73.3646,
+      "y": -85.1182,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 76.8921,
+      "y": -103.315,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 85.8777,
+      "y": -103.674,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 78.6202,
+      "y": -82.916,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 67.5928,
+      "y": -78.2219,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 73.6851,
+      "y": -80.8188,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 60.2977,
+      "y": -107.2722,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 54.0727,
+      "y": -88.7372,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 87.9513,
+      "y": -94.7237,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 93.9831,
+      "y": -118.066,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 76.1872,
+      "y": -84.4488,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 89.35,
+      "y": -114.1871,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 83.0724,
+      "y": -114.1871,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 79.4622,
+      "y": -83.9882,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 87.7785,
+      "y": -97.7869,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 83.9988,
+      "y": -74.3513,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 96.5384,
+      "y": -128.6265,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 51.0859,
+      "y": -97.8283,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 103.7232,
+      "y": -127.9319,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 103.7232,
+      "y": -124.8762,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 79.5564,
+      "y": -73.3808,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 51.0052,
+      "y": -82.9669,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 133.2429,
+      "y": -109.9352,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.322,
+      "y": -95.9732,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 96.5003,
+      "y": -104.0439,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 74.978,
+      "y": -64.978,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 65.6102,
+      "y": -65.4261,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.1867,
+      "y": -67.2646,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 52.9818,
+      "y": -82.9635,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 71.7665,
+      "y": -93.3318,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 105.391,
+      "y": -117.7187,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 104.2521,
+      "y": -101.2015,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 74.5621,
+      "y": -97.1215,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 103.2079,
+      "y": -95.1952,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.6658,
+      "y": -81.9749,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.1069,
+      "y": -92.9384,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 102.6658,
+      "y": -70.8922,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 95.4538,
+      "y": -82.8769,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.7766,
+      "y": -114.8697,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 98.9158,
+      "y": -92.877,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 72.3796,
+      "y": -105.0733,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 65.6932,
+      "y": -114.5165,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 94.8428,
+      "y": -103.5049,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 101.0454,
+      "y": -100.7594,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 63.75,
+      "y": -56.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 66.5,
+      "y": -63.5,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 66.5,
+      "y": -59.7,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 65.8,
+      "y": -55.8,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 62.0,
+      "y": -55.8,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 71.0,
+      "y": -55.0,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 67.4,
+      "y": -61.4,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 140.1698,
+      "y": -76.1427,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 98.7636,
+      "y": -113.3957,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 100.9828,
+      "y": -116.2013,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    },
+    {
+      "ref": "via",
+      "pin": "",
+      "x": 101.1635,
+      "y": -103.9599,
+      "drill": [
+        0.3,
+        0.3
+      ],
+      "rotation": 0,
+      "plated": true
+    }
+  ],
+  "outline_vertices": [
+    [
+      50.0,
+      -130.0
+    ],
+    [
+      50.0,
+      -50.0
+    ],
+    [
+      58.5,
+      -50.31
+    ],
+    [
+      58.5,
+      -50.0
+    ],
+    [
+      59.0,
+      -50.81
+    ],
+    [
+      69.0,
+      -50.81
+    ],
+    [
+      69.5,
+      -50.31
+    ],
+    [
+      69.5,
+      -50.0
+    ],
+    [
+      150.0,
+      -130.0
+    ],
+    [
+      150.0,
+      -50.0
+    ]
+  ]
+}

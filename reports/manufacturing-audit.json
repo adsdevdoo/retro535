@@ -1,0 +1,70 @@
+{
+  "created_utc": "2026-11-08T21:40:22.825403+00:00",
+  "board_sha256": "c7ce883b42bb6e790ba64095abc71b3cd030f23d9340032d43f80b06584954aa",
+  "result": "PASS",
+  "independent_parser": "gerbonara",
+  "layers": [
+    [
+      "bottom",
+      "copper"
+    ],
+    [
+      "bottom",
+      "mask"
+    ],
+    [
+      "bottom",
+      "silk"
+    ],
+    [
+      "mechanical",
+      "outline"
+    ],
+    [
+      "top",
+      "copper"
+    ],
+    [
+      "top",
+      "mask"
+    ],
+    [
+      "top",
+      "silk"
+    ]
+  ],
+  "outline_closed": true,
+  "board_size_mm": [
+    100.0,
+    80.0
+  ],
+  "drills": {
+    "PTH": {
+      "round": 452,
+      "slots": 4
+    },
+    "NPTH": {
+      "round": 6,
+      "slots": 0
+    }
+  },
+  "all_drills_match_board": true,
+  "coordinate_tolerance_mm": 0.0011,
+  "parser_warnings": [
+    "C:\\Users\\\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\\Documents\\Codex\\2026-11-08\\new-chat\\outputs\\retro535\\fabrication\\gerbers\\retro535-NPTH.drl:14 \"G90\": G90 header statement found after end of header",
+    "C:\\Users\\\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\\Documents\\Codex\\2026-11-08\\new-chat\\outputs\\retro535\\fabrication\\gerbers\\retro535-PTH.drl:20 \"G90\": G90 header statement found after end of header"
+  ],
+  "scope": "Layer presence, outline endpoints and every drill; does not certify electrical function or JLCPCB DFM.",
+  "files": {
+    "retro535-B_Cu.gbl": "a41f8221c38514405d97eaf688883cf3832d40a68c0bb81ed97b342fdc84ae05",
+    "retro535-B_Mask.gbs": "bcac081752329e12b25de33a5f85a39ff2aab31ae1bfec6572d1138cb0cba409",
+    "retro535-B_Silkscreen.gbo": "1a717fc1f1febe989b50dbda17446ef86da7cbcea5f53c6d6b6581a364e218b8",
+    "retro535-Edge_Cuts.gm1": "c9b773d11eba4adb8b8f1bfa3c2bb5facdb56420b50d78da4ea79eb43609e897",
+    "retro535-F_Cu.gtl": "fe8fc6d0f10093be66e22a02659602e6df5d2a659f9cf4358461a1ad08aa9321",
+    "retro535-F_Mask.gts": "907a93e62509f5a8df732528c339a68c0b9b36b2f55700bea6f03a1205e5a6f6",
+    "retro535-F_Silkscreen.gto": "65b7bbdb306a768ece8feed7eccc91bb47550afcd0b960614a45dc93a9ab652f",
+    "retro535-NPTH.drl": "68bcfbb83cd98f91a4ec988232d0fcfecd1e64b090e8efd0c3cb53f397756da9",
+    "retro535-PTH.drl": "937b71a35b6477a792d447968c876562bd9ecaecbd0ee6ec337ee67d38860331"
+  },
+  "zip_sha256": "d14278da3402d24a2d8b044cfb277295d6679295cfe38f7234b9b80359c70983"
+}

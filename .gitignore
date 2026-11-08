@@ -1,0 +1,17 @@
+*-backups/
+*.lck
+*.kicad_prl
+_autosave-*
+__pycache__/
+firmware/build/*.asm
+firmware/build/*.lst
+firmware/build/*.rel
+firmware/build/*.rst
+firmware/build/*.sym
+firmware/build/*.lk
+firmware/build/*.mem
+firmware/build/*.map
+firmware/build/*.adb
+firmware/build/*.cdb
+firmware/build/*.omf
+work/
